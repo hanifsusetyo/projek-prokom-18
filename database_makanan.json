@@ -367,5 +367,565 @@
             "Instruksi": "1. kocok telur ayam terlebih dahulu 2. Campurkan tepung terigu, garam dan telur jadi satu 3.Tambahkan susu cair secara perlahan sambil diaduk-aduk 4. Saring adonan 5. Dadar di tempat penggoreng sampai adonan habis 6. Isi kulit pancake dengan whipping cream dan mangga, lipat seperti amplop 7. Simpan pancake di kulkas. Pancake mangga enak dimakan dalam kondisi dingin"
         },
         "Harga": 1900
+    },
+    {
+        "Nama": "Sup Sayur",
+        "Deskripsi": "Sup dengan aneka sayur ",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "1 buah Wortel",
+                "\u00bc bagian Kol",
+                "\u00bc bagian Bunga kol",
+                "1 batang Daun bawang",
+                "1 batang Seledri",
+                "1 buah Kentang",
+                "2 butir Bawang putih",
+                "2 butir Bawang merah",
+                "1 sdt lada bubuk",
+                "1 sdm Kaldu bubuk",
+                "1 sdm Minyak goreng",
+                "1 bungkus Makaroni",
+                "Garam secukupnya",
+                "Air secukupnya"
+            ],
+            "Instruksi": "1. Potong wortel, kol, bunga kol, daun bawang, seledri dan kentang. 2. Haluskan bumbu bawang putih, bawang merah, lada, dan garam. 3. Tumis bumbu hingga wangi, lalu tambahkan air. 4. Masukkan sayur-sayuran dan makaroni, tambahkan kaldu bubuk. 5. Rebus hingga masak, dan siap disajikan"
+        },
+        "Harga": 7000
+    },
+    {
+        "Nama": "Onion Rings",
+        "Deskripsi": "Bawang bombay bentuk ring goreng tepung",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "1 buah Bawang Bombay",
+                "20 gram Tepung Bumbu Serbaguna",
+                "20 gram Tepung panir",
+                "Air secukupnya",
+                "Minyak Goreng"
+            ],
+            "Instruksi": "1. Cuci bawang bombay lalu iris membentuk lingkaran. 2. Buat adonan basah dengan mencampur air dan tepung bumbu. 3. Masukkan irisan bawang bombay ke adonan basah lalu lumuri dengan tepung panir. 4. Goreng hingga kuning kecoklatan, tiriskan, lalu siap disajikan."
+        },
+        "Harga": 13500
+    },
+    {
+        "Nama": "Udang Alpukat",
+        "Deskripsi": "Udang panggang diatas krim alpukat dan mentimun",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "250 gram Udang",
+                "1 butir Bawang putih",
+                "\u00bd sdt ketumbar",
+                " \u00bd sdt Cabai bubuk",
+                "\u00bd sdt Garam",
+                "2 sdm Minyak zaitun",
+                "1/4 sdt lada hitam",
+                "1 buah Alpukat",
+                "Jeruk nipis secukupnya",
+                "\u00bd buah Mentimun"
+            ],
+            "Instruksi": "1. Masukkan udang dalam mangkuk, dan tambahkan bawang putih cincang,ketumbar, cabai bubuk, garam, lada, dan minyak zaitun. 2. Tumis udang hingga matang. 3. Masukkan alpukat, garam, air jeruk nipis, campur hingga merata. 4. Potong tipis mentimun. 5. Tata irisan mentimun, letakkan krim alpukat diatasnya, dan letakkan tumisan udang diatas krim alpukat. 6. Makanan siap disajikan"
+        },
+        "Harga": 40000
+    },
+    {
+        "Nama": "Soto Lamongan",
+        "Deskripsi": "Soto khas Lamongan dengan kuah kuning dan taburan koya yang gurih",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "100 gram Daging Ayam",
+                "1 siung Serai",
+                "2 lembar Daun Jeruk",
+                "2 lembar Daun Salam",
+                "1 cm Lengkuas",
+                "2 sdt Garam",
+                "1 batang Daun Bawang",
+                "Air secukupnya",
+                "Bumbu halus (1 butir Bawang merah, 2 butir Bawang putih, 1 butir Kemiri, 2 cm Kunyit, \u00bd sdt Merica)",
+                "Koya",
+                "200 gram Soun",
+                "1 buah Tomat",
+                "2 lembar Kol",
+                "1 butir Telur",
+                "Seledri secukupnya",
+                "Jeruk Nipis secukupnya"
+            ],
+            "Instruksi": "1. Haluskan bumbu halus. 2. Iris tomat, seledri, kol, dan daun bawang. 3. Rebus daging ayam hingga matang dan berkaldu. 4. Tumis bumbu halus hingga wangi lalu tambahkan garam, serai, lengkuas, daun jeruk, daun salam, dan kaldu ayam. 5. Goreng ayam hingga matang, lalu suwir-suwir ayam. 6. Tata soun, tomat, kol, telur rebus, dan suwiran ayam dalam mangkuk, lalu tambahkan kuah soto. 7. Taburkan koya, seledri dan daun bawang sesuai selera"
+        },
+        "Harga": 12000
+    },
+    {
+        "Nama": "Steak Ayam",
+        "Deskripsi": "Steak ayam dengan saus pedas manis",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "1 potong Dada ayam",
+                "\u00bd sdt Merica bubuk",
+                "1 butir bawang putih parut",
+                "1 sdt garam",
+                "1 sdm Mentega",
+                "2 sdm Minyak sayur",
+                "1 buah Bawang bombay cincang halus",
+                "3 buah Cabai rawit",
+                "1 sdm Tepung terigu",
+                "250 mL Kaldu ayam",
+                "1 sdm Kecap manis",
+                "1 sdm Saus tiram",
+                "Kentang goreng",
+                "Salad sayur"
+            ],
+            "Instruksi": "1. Cuci bersih daging dada ayam. Kerat-kerat permukaannya di beberapa tempat. 2. Lumuri daging ayam dengan bawang putih, merica dan garam hingga rata. Diamkan beberapa saat. 3. Panaskan mentega dalam wajan hingga leleh. Kecilkan api, masukkan daging dada ayam. 4. Masak hingga kedua sisinya kering dan matang, angkat dan sisihkan. 5. Tumis bawang bombay dan bawang putih hingga layu dan harum. 6. Taburkan tepung terigu lalu aduk hingga tercampur rata. 7. Tuangi kaldu sambil aduk hingga agak kental. 8. Tambahkan bahan-bahan lainnya dan masak hingga mendidih. 9. Masukkan daging dada ayam, masak sebentar hingga mendidih lalu angkat. 10. Sajikan dengan salad sayur dan kentang goreng."
+        },
+        "Harga": 24000
+    },
+    {
+        "Nama": "Bubur Candil",
+        "Deskripsi": "Bubur dengan bulatan kenyal yang legit",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "50 gram Tepung Ketan",
+                "1 sdm Tepung beras",
+                "2 sdm Tepung tapioka",
+                "Air secukupnya",
+                "50 gram Gula merah",
+                "2 lembar Daun pandan",
+                "Garam secukupnya",
+                "75 mL Santan"
+            ],
+            "Instruksi": "1. Didihkan air, gula merah, garam, dan daun pandan. 2. Campur tepung ketan, tepung beras, air secukupnya, dan garam, kemudian buat bulatan kecil. 3. Masukkan bulatan candil kedalam rebusan pada langkah pertama. 4. Tuang tepung tapioka dan sedikit air. 5. Didihkan santan dengan daun pandan dan garam. 6. Sajikan bubur candil dengan siraman santan"
+        },
+        "Harga": 8000
+    },
+    {
+        "Nama": "Pie Buah",
+        "Deskripsi": "Pie dengan topping buah segar",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "250 gram Tepung Terigu",
+                "1 sdm Gula halus",
+                "170 gram Mentega",
+                "1 butir Kuning telur",
+                "Susu cair",
+                "1 sdt Gula pasir",
+                "40 gram Tepung Meizena",
+                "\u00bd sdt Vanilla bubuk",
+                "Air 100 mL",
+                "Aneka buah"
+            ],
+            "Instruksi": "1. Campur beberapa bahan ini sekaligus yakni terigu, gula halus, mentega. Setelah itu aduk menggunakan sendok kayu atau pisau pastry sampai berbulir kemudian tambahkan kuning telur, dan aduk rata. 2. Bentuk adonan menjadi bulat-bulat, selanjutnya taruh cetakan pie dalam bentuk molding yang sudah dioles butter. Jangan lupa pakai garpu untuk menusuk bagian dasar pie supaya tidak menggelembung. 3. Sekarang giliran memanggang. Perhatikan suhu 165/170\u2019c api atas bawah dan mulai panggang pie hingga matang. Akan memakan waktu sekitar 25 menit atau sesuaikan oven masing-masing. 4. Ambil tepung maizena kemudian cairkan dengan susu cair (seperlunya saja), campur 5 butir kuning telur, aduk rata. 5. Kini rebus susu cair sisa ditambah gula hingga mendidih. Masukkan campuran maizena dan kuning telur, aduk cepat, terus biarkan mendidih sekali lagi. Angkat. dan sisihkan. 6. Isi pie dengan fla, tambahan hiasan potongan buah, siram 1 sdt agar-agar bening. Dan siap sajikan."
+        },
+        "Harga": 16500
+    },
+    {
+        "Nama": "Roti Gandum Telur Alpukat",
+        "Deskripsi": "Roti gandum panggang dengan telur dan alpukat",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "2 lembar roti gandum",
+                "1 buah Telur",
+                "1 buah Alpukat",
+                "2 sdm Mentega",
+                "Garam secukupnya"
+            ],
+            "Instruksi": "1. Panggang roti gandum dengan mentega hingga matang lalu sisihkan. 2. Panggang telur dengan mentega dan beri sedikit garam hingga matang lalu sisihkan. 3. Haluskan buah alpukat. 4. Oleskan alpukat di atas kedua roti. 5. Letakkan telur disalah satu roti lalu tutup dengan roti satunya"
+        },
+        "Harga": 10000
+    },
+    {
+        "Nama": "Smoothie Hijau Buah dan Sayur",
+        "Deskripsi": "Smoothie hijau dengan campuran buah dan sayur untuk pelengkap menu diet",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "1 buah Mentimun",
+                "\u00bd buah Nanas",
+                "1 batang Seledri",
+                "200 mL Air",
+                "50 gram Yogurt"
+            ],
+            "Instruksi": "1. Potong timun, nanas, dan seledri. 2. Masukkan bahan ke dalam blender. 3. Blender hingga halus, kemudian smoothie hijau siap disajikan"
+        },
+        "Harga": 16000
+    },
+    {
+        "Nama": "Granola",
+        "Deskripsi": "Campuran gandum utuh, kacang-kacangan dan buah kering yang sehat",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "1 cup Rolled oat",
+                "2 sdm Madu",
+                "1 sdm Minyak zaitun",
+                "2 sdm Kacang-kacangan",
+                "2 sdm Buah kering (kurma, berries, kismis, dll.)",
+                "Susu atau yogurt secukupnya",
+                "Gula aren"
+            ],
+            "Instruksi": "1. Sangrai rolled oat dan kacang-kacangan hingga kecoklatan. 2. Masukkan bahan untuk saus, antara lain minyak zaitun,gula aren, madu, dan buah kering. 3. Campur dengan rata siap di sajikan dengan susu atau yogurt."
+        },
+        "Harga": 30000
+    },
+    {
+        "Nama": "Tumis Jamur",
+        "Deskripsi": "Tumisan jamur rendah kalori",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "1 bungkus jamur tiram",
+                "1 siung bawang putih",
+                "garam, gula",
+                "kecap"
+            ],
+            "Instruksi": "1. Suir jamur tiram sesuai selera. 2. Iris tipis bawang putih. 3. Panaskan wajan dengan sedikit minyak. 4. Masukkan bawang putih lalu tumis sampai harum. 4. Masukkan jamur lalu tumis sampai jamur terlihat layu. 5. Masukkan per bumbuan seperti gula dan garam sesuai selera, dan tambahkan kecap sesuai selera. 6. Aduk sampai rata lalu tambahkan sedikit air. 7. Aduk sebentar lalu tumis siap dihidangkan."
+        },
+        "Harga": 5000
+    },
+    {
+        "Nama": "Pepes Ayam",
+        "Deskripsi": "Olahan ayam rendah kalori",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "1/4 kg dada ayam",
+                "3 siung bawang putih",
+                "4 buah bawah merah",
+                "4 cabai merah",
+                "bumbu dapur; gula dan garam",
+                "daun pisang untuk pembungkus"
+            ],
+            "Instruksi": "1. Haluskan bawang merah, bawang putih, dan cabai merah. 2. Potong dadu dada ayam ukuran sedang. 3. Siapkan mangkok, masukkan ayam dan bumbu yang sudah dihaluskan. 4. Tambahkan bumbu dapur, 1 sendok teh garam dan setengah sendok teh gula. 5. Aduk secara merata. 6. Siapkan daun pisang dan bungkus ayam yang telah dibumbui tadi menggunakan daun pisang. 7. Lalu, setelah dibungkus dengan rapat, kukus bungkusan tersebut selama 20 menit. 8. Pepes siap dihidangkan."
+        },
+        "Harga": 20000
+    },
+    {
+        "Nama": "Shrimp Salad",
+        "Deskripsi": "Olahan sayur dengan udang",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "1/4 kg udang",
+                "kubis",
+                "wortel",
+                "jagung",
+                "selada",
+                "saus wijen instan"
+            ],
+            "Instruksi": "1. Bersihkan udang dengan membuang bagain kepala, kaki, dan kulit. 2. Rebus udang dan jagung sampai matang. 3. Potong potong sayuran sesuai selera (untuk wortel sebaiknya dipotong secara tipis tipis seperi batang korek api yang dibagi menjadi 2). 4. Cuci semua sayuran yang telah dipotong dan keringkan. 5. Siapkan mangkok, tata semua sayuran yang telah kering dan jagungnya, tidak lupa udang juga di tata sesuai selera. 6. Siram dengan 3 sendok saus wijen instan. 7. Shrimp Salad siap dihidangkan"
+        },
+        "Harga": 25000
+    },
+    {
+        "Nama": "Mie goreng shirataki",
+        "Deskripsi": "Mie goreng dengan bahan yang lebih sehat dan rendah kalori",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "1 paket mie shirataki",
+                "2 siung bawang putih (cincang halus)",
+                "1 buah wortel (potong tipis)",
+                "1 batang daun bawang (iris tipis)",
+                "100 gram daging ayam (potong dadu kecil)",
+                "2 sendok makan saus tiram",
+                "1 sendok makan kecap manis",
+                "1 sendok teh kecap asin",
+                "1 sendok teh gula pasir",
+                "1/2 sendok teh merica bubuk"
+            ],
+            "Instruksi": "1. Rendam mie shirataki dalam air panas selama 2-3 menit untuk menghilangkan bau khasnya. 2. Kemudian, tiriskan dan sisihkan. 3. Selanjutnya, panaskan minyak goreng dalam wajan yang sudah dipanaskan. 4. Tumis bawang putih hingga harum dan agak kecokelatan. 5. Masukkan potongan daging ayam dan aduk hingga berubah warna menjadi putih. 6. Tambahkan wortel dan aduk rata. 7. Masak sebentar hingga wortel sedikit lunak. 8. Kemudian, masukkan mie shirataki yang sudah direndam dan aduk hingga semua bahan tercampur secara merata. 9. Setelah itu, tuangkan saus tiram, kecap manis, dan kecap asin ke dalam wajan. 10. Tambahkan gula pasir dan merica bubuk. Aduk semua bahan secara merata, pastikan mie dan bumbu tercampur dengan baik. 11. Masak mie goreng shirataki dalam wajan dengan api sedang selama 3-4 menit atau hingga mie matang dan semua bumbu terserap. Jangan lupa untuk terus diaduk agar bumbu terdistribusi dengan baik. 12. Lalu, tambahkan irisan daun bawang dan aduk sebentar hingga tercampur rata. Angkat mie goreng shirataki dari wajan dan sajikan selagi hangat."
+        },
+        "Harga": 35000
+    },
+    {
+        "Nama": "Pindang Telur",
+        "Deskripsi": "Telur rebus yang dimasak dengan proses pindang",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "2 butir telur ayam",
+                "2 lembar daun salam",
+                "500 ml air untuk merebus",
+                "Irisan 1 sdm bawang merah",
+                "Irisan 1 sdm bawang putih",
+                "1 sdm air asam",
+                "1 ruas lengkuas",
+                "1 sdt garam"
+            ],
+            "Instruksi": "1. Rebus telur dengan air dan semua bumbu dengan api sedang hingga telur matang dan air menyusut, 2. Angkat telur lalu ketuk-ketuk kulit telur hingga retak, 3. Masukkan kembali ke air rebusan lalu masak hingga air menyusut. 4. Lalu angkat, kupas telur dan hidangkan."
+        },
+        "Harga": 10000
+    },
+    {
+        "Nama": "Tumis Tahu Tauge",
+        "Deskripsi": "Tumisan berisi tahu dan tauge rendah kalori",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "5 tahu putih ",
+                "1 genggam tauge",
+                "2 siung bawang putih",
+                "1 sachet saos tiram",
+                "bumbu dapur (gula dan garam)"
+            ],
+            "Instruksi": "1. Potong tahu putih menjadi kotak dadu sesuai selera. 2. Cincang bawang putih. 3. Panaskan wajan dengan menggunakan 1 sendok air lalu masukkan bawang putih yang sudah di cincang. 4. Jika sudah wangi masukkan tahu lalu tumis sebentar, lalu masukkan tauge dan aduk sampai tauge lemas. 5. Masukkan saos tiram dan beri tamabahan bumbu dapur sesuai selera. 6. Tumis tahu tauge siap dihidangkan."
+        },
+        "Harga": 10000
+    },
+    {
+        "Nama": "Mashed Potato",
+        "Deskripsi": "Kentang tumbuk pengganti nasi rendah kalori",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "2 buah kentang",
+                "1 sendok makan mentega",
+                "garam"
+            ],
+            "Instruksi": "1. Kukus/ rebus kentang sampai menjadi empuk. 2. Tumbuk halus kentang. 3. Masukkan 1 sendok makan mentega. 4. Aduk sampai rata dan tambahkan garam secukupnya atau sesuai selera. 5. Mashed potato siap dihidangkan."
+        },
+        "Harga": 5000
+    },
+    {
+        "Nama": "Klepon",
+        "Deskripsi": "Jajanan tradisional untuk makanan penutup",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "1/2 kg Tepung ketan",
+                "gula merah",
+                "pewarna makanan warna hijau",
+                "kelapa parut"
+            ],
+            "Instruksi": "1. Campurkan tepung ketan dengan pewarna makanan hingga terbentuk adonan yang lembut dan tidak lengket. 2. Setelah itu, bentuk adonan menjadi bola-bola kecil dengan diameter sekitar 2-3 cm. 3. Selanjutnya, siapkan gula merah yang telah dipotong-potong menjadi bagian kecil. Ambil satu bola adonan ketan, pipihkan dan letakkan sejumput gula merah di tengahnya. 4. Rapatkan kembali adonan ketan hingga gula merah terbungkus sempurna. 5.Selanjutnya didihkan air dalam panci dan masukkan bola-bola klepon ke dalam air mendidih. Rebus klepon hingga bola-bola tersebut mengapung di permukaan air, yang menandakan bahwa klepon telah matang. 6. Angkat klepon dari air mendidih dan tiriskan. 7. Langkah terakhir, gulingkan klepon yang masih hangat ke dalam kelapa parut yang telah dipersiapkan. 8. Klepon siap disajikan dan dapat dinikmati dalam keadaan hangat atau dingin."
+        },
+        "Harga": 10000
+    },
+    {
+        "Nama": "Dadar Gulung",
+        "Deskripsi": "Jajanan tradisional berisi parutan kelapa yang dicampur dengan gula merah",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "tepung terigu",
+                "telur",
+                "gula",
+                "garam",
+                "santan",
+                "air"
+            ],
+            "Instruksi": " 1.Campurkan tepung terigu, telur, gula, dan garam, lalu aduk rata. 2.Tambahkan santan sedikit demi sedikit sambil terus diaduk hingga membentuk adonan yang kental. 3. Selanjutnya, panaskan wajan anti lengket dan oleskan sedikit minyak. 4. Tuangkan adonan dadar ke dalam wajan dan ratakan dengan spatula. Biarkan dadar matang di satu sisi, kemudian balik dan biarkan matang sempurna. 5. Setelah dadar matang, pindahkan ke piring dan biarkan sedikit dingin. 6. Kemudian, beri isian sesuai selera, seperti gula merah parut, keju, atau selai, dan gulung dadar dengan rapi. 7.  Dadar gulung siap disajikan."
+        },
+        "Harga": 15000
+    },
+    {
+        "Nama": "Dessert Box",
+        "Deskripsi": "Makanan penutup yang disajikan dalam satu kotak",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "satu bungkus oreo",
+                "1 bungkus whipcrem siap kocok"
+            ],
+            "Instruksi": "1. Pisahkan cream dengan biskuit oreo. 2. Tumbuk kasar biskuit oreo yang telah dipisahkan dari creamnya. 3. Siapkan wadah untuk menuang whip cream kocok dan krim oreo. 4. Aduk wip cream dan krim oreo sampai kental dan padat. 5. Siapkan wadah lalu tata oreo dan krim layer per layer. 6. Dessert box siap dihidangkan atau masukkan kulkas terlebih dahulu agar lebih nikmat"
+        },
+        "Harga": 20000
+    },
+    {
+        "Nama": "Bolu Pisang",
+        "Deskripsi": "Makanan penutup dengan bahan dasar pisang",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "2 buah pisang matang, haluskan",
+                "1 butir telur",
+                "100 gram tepung terigu",
+                "50 gram gula pasir",
+                "1 sendok makan margarin, lelehkan",
+                "1/2 sendok teh baking powder",
+                "1/2 sendok teh vanili bubuk",
+                "Secubit garam"
+            ],
+            "Instruksi": "1. campurkan pisang halus dengan telur dan gula pasir dalam sebuah mangkuk. 2. Aduk rata hingga gula larut dan bahan tercampur dengan baik. 3. Selanjutnya, tambahkan tepung terigu, baking powder, minyak sayur, dan garam ke dalam campuran pisang. 4. Aduk kembali hingga semua bahan tercampur secara merata, tetapi jangan terlalu lama mengaduknya agar adonan tidak terlalu padat. 5. Selanjutnya, siapkan loyang atau wadah yang bisa digunakan untuk kukusan. 6. Olesi permukaan loyang dengan sedikit minyak agar bolu tidak lengket. 7. Tuangkan adonan bolu pisang ke dalam loyang yang telah disiapkan. Pastikan adonan tidak terlalu penuh karena bolu akan mengembang saat dikukus. 8. Panaskan panci kukusan dengan air di bawahnya. Setelah air mendidih, letakkan loyang yang berisi adonan bolu pisang ke dalam panci kukusan. 9. Tutup panci dengan rapat dan kukus selama sekitar 30-40 menit atau hingga bolu matang. 10. Gunakan tusuk gigi untuk memeriksa kekematangan bolu, jika tusuk gigi keluar bersih tanpa adonan yang menempel, maka bolu sudah matang."
+        },
+        "Harga": 12000
+    },
+    {
+        "Nama": "Tom Yum Seafood",
+        "Deskripsi": "Olahan Tom Yum Seafood",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "1 daun salam",
+                "2 daun jeruk",
+                "1 serai geprek",
+                "1 ruas jahe geprek",
+                "1 ruas rengkuas geprek",
+                "1 sdm air jeruk nipis"
+            ],
+            "Instruksi": "1. Tumis bumbu halus, masukkan bumbu pelengkap 2. Tuang air secukupnya, masukkan cumu, tunggu hingga empuk.3.Masukkan bahan lainnya, beri garam, kaldu, dan lada bubuk."
+        },
+        "Harga": 15000
+    },
+    {
+        "Nama": "Gulai Ayam",
+        "Deskripsi": "Olahan Gulai Ayam",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "1 ekor ayam ",
+                "1 buah jeruk nipis ",
+                "1 batang serai geprek",
+                "2 lembar daun salam",
+                "2 lembar daun jeruk",
+                "200 ml santan encer",
+                "200 ml santan kental",
+                "air matang secukupnya"
+            ],
+            "Instruksi": "1.Cuci bersih daging ayam dan lumuri dengan jeruk nipis 2.Tumis bumbu halus sampai wangi, masukkan daun dalam,daun jeruk,dan sereh, aduk sampai bumbu matang,masukkan ayam , aduk rata,masak samapi berubah warna, tambahkan garam dan kaldu.3.Masukkan santan encer dan air, masak dengan api sedang sampai daging ayam empuk 4.Setelah kuah menyusut dan daging ayam empuk, masukkan santan kental, masak sambal terus diaduk sampai santan mendidih  dan bumbu meresap."
+        },
+        "Harga": 10000
+    },
+    {
+        "Nama": "Nasi liwet teri",
+        "Deskripsi": "MainCourse",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "350 gram beras",
+                "4 batang serai geprek",
+                "3 cm lengkuas daun salam",
+                "3 lembar daun salam",
+                " 4 lembar daun jeruk",
+                "150gram teri goreng kering",
+                "3/2 sdt garam",
+                "1 sdt kaldu bubuk non msg",
+                "minyak goreng"
+            ],
+            "Instruksi": "1. Tumis bawang merah dan bawang putih, masukkan cabai hingga layu. Masukkan daun salam, sereh, dan daun jeruk. Masak hingga wangi. Angkat dan sisihkan 2.Masukkan beras ke rice cooker, tuang air, masukkan tumisan bumbu iris, garam, dan kaldu bubuk. Aduk rata. Masak hingga matang.3. Masukkan teri, tutup lagi. Diamkan selama 10 menit. Aduk dengan rata."
+        },
+        "Harga": 8000
+    },
+    {
+        "Nama": "Sup tulang",
+        "Deskripsi": "MainCourse",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "1/2 kg tulang sapi",
+                "sayur",
+                "4 siung bawang putih,iris",
+                "4 bawang merah,iris",
+                "3 buah daun bawang,iris",
+                "2buah seledri,iris",
+                "1 buah tomat,potong",
+                "gula garam dan merica secukupnya"
+            ],
+            "Instruksi": "1. Bersihkan tulangan sapi. Rebus hingga air mendidih. Buang airnya cuci kembali. Lalu rebus hingga empuk, bisa menggunakan presto 2. Tumis bawang merah dan bawang putih. masukkan air dan tulangan sapi. Tunggu hingga mendidih lalu masukkan wortel dan kentang.3. Tambahkan irisan daun bawang, seledri, gula garam dan merica. Rebus selama 30 menit dengan api kecil. Koreksi rasa. Terakhir taburkan bawang goreng."
+        },
+        "Harga": 15000
+    },
+    {
+        "Nama": "Jengkol Kalio",
+        "Deskripsi": "MainCourse",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                " 250 gram jengkol tua yang sudah direbus, pipihkan",
+                " 700 ml santan cair",
+                "1 batang sereh memarkan",
+                "4 lembar daun salam",
+                "4 lembar daun jeruk sobek-sobek",
+                "garam, kaldu jamur, merica bubuk dan sedikit gula pasir/gula merah"
+            ],
+            "Instruksi": "1. Tumis bumbu halus sampai wangi, masukkan sereh, salam dan daun jeruk tumis lagi agak lama sampai bumbu benar-benar matang dan mengeluarkan minyak 2. Masukkan santan dan jengkol, didihkan. Bumbui garam, kaldu jamur, merica dan gula sesuai selera.3. Masak sampai bumbu meresap dan kuah santan menyusut. Jangan lupa cek rasa, angkat sajikan dengan nasi hangat."
+        },
+        "Harga": 7000
+    },
+    {
+        "Nama": "Tumis Sawi Taunge",
+        "Deskripsi": "MainCourse",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "1 ikat sawi hijau",
+                "Wortel secukupnya",
+                "Taoge secukupnya"
+            ],
+            "Instruksi": "1. Tumis bumbu iris sampai harum, masukkan wortel, masak sebentar 2. Kemudian masukkan sawi dan tauge, lalu tambahkan saus tiram, garam dan penyedap rasa.3. Masak sebentar, koreksi rasa."
+        },
+        "Harga": 6000
+    },
+    {
+        "Nama": "Cumi pedas manis",
+        "Deskripsi": "MainCourse",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "1 kg cumi ukuran besar cuci bersih kemudian beri sedikit cuka dan garam, potong sesuai selera. Lalu cuci lagi sampai bersih",
+                "2 papan petai"
+            ],
+            "Instruksi": "1 Tumis bumbu halus sampai matang lalu masukkan cumi. aduk rata 2.Beri sedikit air (100 ml) kalau sudah mendidih masukkan semua bumbu.3.Masukkan saat kuah mulai sedikit surut dan mengental masukkan semua bumbu iris plus petai.4 Aduk-aduk biarkan sebentar lalu angkat."
+        },
+        "Harga": 10000
+    },
+    {
+        "Nama": "Ayam panggang",
+        "Deskripsi": "MainCourse",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "1 ekor ayam kampung\u201d,\u201d1 lembar dauan kunyit",
+                "250 ml santan segar",
+                "air asam jawa secukupnya",
+                "air secukupnya",
+                "garam, gula dan kadlu bubuk"
+            ],
+            "Instruksi": "1 Panaskan minyak tumis semua bahan halus dan daun kunyit sampai wangi 2. Masukkan santan, garam, gula, kaldu bubuk, air dan air asam jawa secukupnya aduk rata.3. Masukkan ayam, ungkep ayam sampai empuk, sisahkan kuahnya 4. Bakar ayam di alat pemanggang, bolak balik sambil olesi sisa bumbu.5. Angkat dan siram kuah."
+        },
+        "Harga": 15000
+    },
+    {
+        "Nama": "Ayam opor",
+        "Deskripsi": "MainCourse",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "1 ekor ayam ,potong 12 bagian",
+                "500 ml santan",
+                "1 ruas lengkuas",
+                "Gula secukupnya",
+                "Garam secukupnya"
+            ],
+            "Instruksi": "1. Rebus ayam untuk menghilangkan darah dan kotoran. Bisa juga dengan digoreng sebentar.2. Tumis bumbu halus sampai harum dan matang, masukkan ayam dan santan lalu masak sampai bumbu meresap. Taburi dengan gula, garam dan kaldu bubuk. Koreksi rasa."
+        },
+        "Harga": 13000
+    },
+    {
+        "Nama": "Telor balado",
+        "Deskripsi": "MainCourse",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "8 butir telur rebus",
+                "12 biji cabai merah",
+                "3 biji cabi rawit merah",
+                "6 butir bawang merah",
+                "2 butir bawang merah",
+                "2 batang serai geprek",
+                "2 buah tomat merah",
+                "garam",
+                "gula pasir",
+                "minyak goreng",
+                "1 blok terasi"
+            ],
+            "Instruksi": "1 Goreng telur hingga kuning keemasan. Angkat, lalu sisihkan.2. Haluskan (diulek atau diblender) cabai merah, cabai rawit merah, bawang merah, bawang putih, terasi bakar, dan tomat.3. Tumis serai hingga wangi, lalu masukkan bumbu halus, tumis hingga harum 4. Beri garam dan gula secukupnya.5. Masukkan telur, aduk sampai merata."
+        },
+        "Harga": 6000
     }
 ]
