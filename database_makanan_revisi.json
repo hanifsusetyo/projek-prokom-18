@@ -1,0 +1,3043 @@
+[
+    {
+        "Nama": "Salad Buah",
+        "Deskripsi": "Campuran buah segar dengan saus yogurt",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "Apel",
+                "Jeruk",
+                "Anggur",
+                "Pisang",
+                "Saus yogurt"
+            ],
+            "Instruksi": "1. Potong buah-buahan. 2. Campurkan dengan saus yogurt."
+        },
+        "Harga": [
+            5000,
+            5000,
+            3000,
+            4000,
+            2000
+        ]
+    },
+    {
+        "Nama": "Risoles",
+        "Deskripsi": "Suatu camilan dengan isian mayonais dan daging",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "Mayonais",
+                "Wortel",
+                "Daging",
+                "Tepung Roti",
+                "Kulit Risoles",
+                "Telur"
+            ],
+            "Instruksi": "1. Campurkan semua bahan kulit, aduk rata. Saring agar tidak bergerindil. Adonan kulit tidak terlalu kental namun tidak terlalu cair juga. Diamkan selama 30 menit.Rebus telur dan dipotong-potong. Goreng sosis dan potong memanjang. 2. Campurkan mayonaise dengan kental manis, aduk rata. 3. Gunakan teflon anti lengket untuk membuat kulit. Ambil satu sendok sayur atau secukupnya. Ratakan hingga tipis dan matang mengelupas sendiri. Lakukan hingga adonan habis. 4. Ambil kulit dan isi dengan mayo, telur dan sosis. Lipat dan gulung risol. Rekatkan dengan bahan perekat. Lakukan hingga habis. 5. Campurkan terigu dengan air untuk pencelup. Celupkan risol ke pencelup dan balur dengan tepung roti. Simpan di dalam freezer selama 1 jam agar tepung roti merekat. 6. Goreng risol mayo hingga matang kecokelatan. Angkat dan sajikan."
+        },
+        "Harga": [
+            5000,
+            2000,
+            3000,
+            5000,
+            2000,
+            2000
+        ]
+    },
+    {
+        "Nama": "Dimsum Ayam Wortel",
+        "Deskripsi": "Dimsum somay yang berisi ayam dan juga wortel",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "1/2 kg dada ayam cincang",
+                "2 sdm tepung tapioka",
+                "1 butir telur ayam",
+                "1 bungkus kulit pangsit",
+                "1 sdm bawang merah goreng",
+                "3 siung bawang putih, haluskan",
+                "5 sdm minyak wijen"
+            ],
+            "Instruksi": [
+                "1. Langkah pertama haluskan fillet daging ayam dan telur menggunakan blender.",
+                "2. Setelah halus, campurkan dengan kaldu bubuk, gula pasir, merica bubuk, saus tiram, minyak wijen, kecap asin, dan bawang putih goreng, aduk sampai adonan rata",
+                "3. Tambahkan wortel yang sudah dicincang kasar dan potongan daun bawang, aduk rata",
+                "4. Masukkan tepung tapioka dalam adonan, aduk hingga rata.",
+                "5. Ambil 1 lembar kulit dimsum, tambahkan isian dimsum, lalu bungkus dan lipat perlahan.",
+                "6. Taburkan parutan wortel di atas dimsum sebagai topping. Lalu kukus dimsum selama 25-30 menit. 7. Sajikan dan nikmati setelah matang."
+            ]
+        },
+        "Harga": [
+            15000,
+            500,
+            2000,
+            3000,
+            500,
+            500,
+            500
+        ]
+    },
+    {
+        "Nama": "Garlic Bread",
+        "Deskripsi": "Makanan pembuka roti dengan rasa bawang",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "4 lembar roti tawar",
+                "1 sdm margarin",
+                "2 siung bawang putih, haluskan",
+                "peterseli secukupnya",
+                "keju secukupnya"
+            ],
+            "Instruksi": [
+                "1. Campur bawang margarin, keju, dan peterseli. Aduk rata. Oleskan ke atas roti.",
+                "2. Oven dengan api bawah 180 derajat Celcius 10 menit hingga kering bagian atasnya."
+            ]
+        },
+        "Harga": [
+            15000,
+            500,
+            2000,
+            3000,
+            500
+        ]
+    },
+    {
+        "Nama": "Rainbow Mille Crepe Cake",
+        "Deskripsi": "Cake crepes dengan warna pelangi",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "6 sdm butter, cairkan",
+                "710 ml cups susu ",
+                "6 butir telur",
+                "280 g tepung",
+                "7 sdm gula",
+                "whipped cream secukupnya",
+                "pewarna makanan secukupnya"
+            ],
+            "Instruksi": [
+                "1. Masukan tepung terigu, gula, dan telur, kemudian aduk rata.",
+                "2. Tambahkan butter yang telah dilelehkan dan campur dengan susu, aduk adonan hingga rata.",
+                "3. Pisahkan adonan ke dalam 6 mangkok yang berbeda. Beri pewarna makanan sesuai selera dan aduk rata.",
+                "4. Panaskan wajan dengan api sedang. Tuang adonan tipis-tipis ke wajan membentuk dadar tipis atau crepe. Lakukan hingga semua adonan habis. Angkat dan sisihkan.",
+                "5. Ambil satu lembar crepe dan olesi dengan whipped cream, kemudian tumpuk kembali dengan crepe dan olesi whipped cream. Lakukan hingga semua bahan habis.",
+                "6. Pada lapisan terakhir, tutup semua crepe dengan whipped cream hingga rata.",
+                "7. Sajikan dessert dalam keadaan dingin."
+            ]
+        },
+        "Harga": [
+            6000,
+            7100,
+            1800,
+            2800,
+            700,
+            500,
+            500
+        ]
+    },
+    {
+        "Nama": "Dessert Box Wafer",
+        "Deskripsi": "Cake dengan topping yang disajikan dalam sebuah kotak plastik",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "10 potong wafer rasa cokelat atau apa saja",
+                "250 ml susu cair",
+                "3 sdm kental manis",
+                "2 sdm keju parut ",
+                "1 sdm maizena, larutkan dengan air secukupnya",
+                "1 sdt margarin"
+            ],
+            "Instruksi": [
+                "1. Hancurkan wafer hingga halus, sisihkan.",
+                "2. Untuk vla, panaskan susu cair dan kental manis. Aduk rata hingga larut.",
+                "3. Masukkan keju dan margarin, aduk rata. Tuang maizena yang sudah dilarutkan dengan air secukupnya, aduk hingga matang mengental. Angkat.",
+                "4. Siapkan wadah mika, tata wafer di dasar, tuang vla secukupnya, tabur wafer lagi, tutup lagi dengan vla. Beri sedikit tabura wafer halus di atasnya.",
+                "5. Simpan di dalam kulkas, nikmati dessert box selagi dingin"
+            ]
+        },
+        "Harga": [
+            1000,
+            8000,
+            3000,
+            2000,
+            1000,
+            1000
+        ]
+    },
+    {
+        "Nama": "Pretzel",
+        "Deskripsi": "Pretzel merupakan kue khas Eropa yang punya rasa gurih manis",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "450 g tepung terigu",
+                "3 sdt ragi instan",
+                "1 butir telur",
+                "2 sdm gula",
+                "1 sdt garam",
+                "400 ml air hangat",
+                "45 g soda kue",
+                "2 l air"
+            ],
+            "Instruksi": [
+                "1. Campurkan terigu, gula pasir, ragi, serta garam. Tambahkan air matang sedikit demi sedikit sambil terus aduk adonannya sampai kalis.",
+                "2. Diamkan adonan pretzel hingga mengembang dalam wadah tertutup kain bersih selama 30-40 menit.",
+                "3. Kempiskan sedikit adonan yang sudah mengembang. Bagi adonan menjadi beberapa bagian berukuran masing-masing 50 gram.",
+                "4. Taburkan terigu di meja bersih supaya adonan tidak lengket. Gulung-gulungkan adonan hingga bentuknya memanjang. Buat adonan hingga membentuk kue pretzel yang bentuknya mirip hati namun seperti ada simpul pada bagian tengahnya.",
+                "5. Lakukan tahap 4 sampai adonan habis.",
+                "6. Buat bahan celupan. Rebus air sampai mendidih, matikan api. Setelah itu, tambahkan soda kue, aduk rata di air yang masih panas.",
+                "7. Tempatkan adonan kue pretzel di saringan bersih. Celupkan adonan di bahan celup sampai terendam selama 30 detik. Angkat, kemudian tiriskan.",
+                "8. Letakkan kue pretzel di loyang bersih. Oleskan margarin atau mentega di permukaannya, taburi dengan sedikit garam kasar.",
+                "9. Panggang pretzel di oven bersuhu 200 derajat celcius sampai matang, kurang lebih 15-20 menit.",
+                "10. Keluarkan pretzel dari oven. Sajikan."
+            ]
+        },
+        "Harga": [
+            4500,
+            3000,
+            1000,
+            500,
+            1000,
+            1000,
+            900,
+            2000
+        ]
+    },
+    {
+        "Nama": "Rendang daging",
+        "Deskripsi": "Daging dengan bumbu rendang",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "1 kg daging sapi bagian paha",
+                "2500 ml santan",
+                "3 batang serai digeprek",
+                "8 lembar daun jeruk",
+                "5 lembar daun salam",
+                "250 gr cabai keriting merah dan rawit",
+                "250 gr bawang merah",
+                "8 siung bawang putih",
+                "1 sdt jintan",
+                "5 butir cengkeh",
+                "3 butir kemiri",
+                "Seruas jahe, kunyit, lengkuas",
+                "Garam dan gula secukupnya"
+            ],
+            "Instruksi": [
+                "1. Potong-potong daging kira-kira 1 kg jadi 20 potong.",
+                "2. Masukkan santan ke dalam wajan, tambahkan serai, daun jeruk, daun salam dan bumbu halus. Masak di atas api kecil sambil terus diaduk perlahan. Cara mengaduknya seperti orang menimba. Santan diaduk di bagian permukaannya, diambil sedikit demi sedikit dengan sendok sayur. Timba-timba santan hingga mendidih sekitar 15 menit.",
+                "3. Masukkan daging, aduk-aduk hingga mendidih, kecilkan api. Beri garam dan gula secukupnya. Masak sampai santan mengental, aduk supaya tidak gosong.",
+                "4. Teruskan memasak dengan api kecil sampai rendang mengering dan berminyak."
+            ]
+        },
+        "Harga": [
+            20000,
+            5000,
+            1000,
+            1000,
+            1000,
+            1000,
+            1000,
+            1000,
+            2000,
+            1000,
+            1000,
+            500,
+            500,
+            1000
+        ]
+    },
+    {
+        "Nama": "Pancake",
+        "Deskripsi": "Pancake lezat dengan sirup maple",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "Tepung",
+                "Susu",
+                "Telur",
+                "Gula",
+                "Sirup maple"
+            ],
+            "Instruksi": [
+                "1. Campurkan bahan-bahan.",
+                "2. Goreng pancake hingga matang."
+            ]
+        },
+        "Harga": [
+            1000,
+            2000,
+            500,
+            500,
+            3000
+        ]
+    },
+    {
+        "Nama": "Bruschetta",
+        "Deskripsi": "Roti dengan tomat dan Keju Feta",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "Roti baguaette",
+                "Tomat segar",
+                "bawang putih",
+                "Daun basil segar",
+                "Keju feta",
+                "Minyak zaitun",
+                "Garam dan merica"
+            ],
+            "Instruksi": [
+                "1.Potong roti tipis - tipis,",
+                "2.Haluskan tomat.",
+                "3.potong bawang putih kecil-kecil dan setelah itu haluskan.",
+                "4.Haluskan daun basil.",
+                "5.Hancurkan keju feta sampai lembut.",
+                "6.Panas minyak zaitun.",
+                "7.Masukan roti kedalam minyak panas lalu tambahkan sedikit garam dan minyak"
+            ]
+        },
+        "Harga": [
+            10000,
+            5000,
+            3000,
+            2000,
+            10000,
+            10000,
+            6000
+        ]
+    },
+    {
+        "Nama": "Lumpai Goreng",
+        "Deskripsi": "Lumpia dengan isi ayam",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "1.Kulit lumpia",
+                "1Wortel",
+                "2 kubis",
+                "1 bawang putih",
+                "1 bawang merah",
+                "1/2 daging ayam",
+                "1 Daun bawang putih",
+                "Garam dan merica",
+                "Minyak goreng"
+            ],
+            "Instruksi": [
+                "1.Serut Wortel sampai halus.",
+                "2.iris kubis tipis - tipis.",
+                "3.Potong bawang putih dan bawang merah.",
+                "4.cincang daging ayam membentuk kecil - kecil.",
+                "5.iris daun bawang sekupnya.6.tambahkan garam dan merica.",
+                "7.Panaskan minyak goreng.8.Setelah tuangkan lumpia  ke dalam minyak goreng yang sudah di panaskan"
+            ]
+        },
+        "Harga": [
+            8000,
+            5000,
+            3000,
+            5000,
+            5000,
+            8000,
+            5000
+        ]
+    },
+    {
+        "Nama": "Caprese Salad",
+        "Deskripsi": "Salad yang terbuat dari irisan mozzarella",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "1.Tomat segar",
+                "2 Keju mozzarella",
+                "1 daun basil",
+                "1 minyak zaitun",
+                "1 cuka balsamic",
+                "Garam dan merica"
+            ],
+            "Instruksi": [
+                "1.iris tomat menjadi tipis.",
+                "2.potong lembut keju mozzarella.",
+                "3.iris daun basil.",
+                "4.tuangkan minyak zaitun secukupnya.",
+                "5.tambah cuka balsamic.",
+                "6.taburkan garam dan merica secukupnya.",
+                "7.tata dan sajikan"
+            ]
+        },
+        "Harga": [
+            10000,
+            15000,
+            10000,
+            13000,
+            10000,
+            10000
+        ]
+    },
+    {
+        "Nama": "Tumis Udang Pedas",
+        "Deskripsi": "Tumis udang dengan cabai pedas",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "1 kg udang",
+                "1 bawang putih",
+                " 2 bawang merah",
+                "5 cabai merah",
+                "10 cabai hijau",
+                "1 saus tiram",
+                "1 saus cabai",
+                "Garam dan merica",
+                "1 minyak"
+            ],
+            "Instruksi": [
+                "1.Kupas kulit udang terlebih dahalu",
+                ".2 kupas bawang putih dan bawang merah setelah itu potong tipis - tipis",
+                "3.potong cabai merah dan cabai hijau",
+                "4.tuang saus tiram secukupnya dan saus cabai",
+                "5.tambahkan garam dan merica",
+                "6.Tumis dengan minyak",
+                "7.siap untuk disajikan"
+            ]
+        },
+        "Harga": [
+            10000,
+            5000,
+            5000,
+            10000,
+            10000,
+            5000,
+            5000,
+            6000,
+            5000
+        ]
+    },
+    {
+        "Nama": "Cumi-cumi panggang",
+        "Deskripsi": "Cumi panggang dengan kecap manis",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "1 cumi-cumi",
+                "1 bawang putih ",
+                "1 daun peterseli",
+                "1 lemon",
+                "1 minyak zaitun",
+                "1 Garam dan merica"
+            ],
+            "Instruksi": [
+                "1.bersihkan cumi terlebih dahulu.",
+                "2.kupas bawang putih dan potong tipis - tipis.",
+                "3.tambahkan daun peterseli dan haluskan.",
+                "4.peres terlebih dahulu lemonnya.",
+                "5.panggang cumi dengan mengoleskan minyak zaitun.",
+                "6.taburkan secukupnya garam dan merica.",
+                "7.siap untuk disajikan"
+            ]
+        },
+        "Harga": [
+            10000,
+            5000,
+            6000,
+            5000,
+            10000,
+            6000
+        ]
+    },
+    {
+        "Nama": "Chicken satay",
+        "Deskripsi": "sate ayam yang dipanggang",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "1 kg daging ayam",
+                "1 Bawang putih",
+                "1 bawang merah",
+                "1 kecap manis",
+                "sambal",
+                "serai",
+                "air jeruk,",
+                "garam dan merica",
+                "tusuk sate"
+            ],
+            "Instruksi": [
+                "1.Potong daging ayam.2.potong bawang putih dan bawang merah.",
+                "3.tuangkan kecap.",
+                "4.tambahkan sambal dan serai.",
+                "5.oleskan air jeruk ke daging ayam.",
+                "6.tambahkan garam dan merica secukupnya.",
+                "7.lalu dipanggang dan siap disajikan"
+            ]
+        },
+        "Harga": [
+            10000,
+            2000,
+            2000,
+            3000,
+            5000,
+            4000,
+            3000,
+            6000,
+            5000
+        ]
+    },
+    {
+        "Nama": "Siomay ikan",
+        "Deskripsi": "aci berisi dengan ikan",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "350 gr ikan",
+                "3 sdm tepung kanji",
+                "2 butir telur",
+                "2 siung bawng putih",
+                "1 sdt garam",
+                "2 batang daun bawang",
+                "1 buah wortel,cincan",
+                "gula seckupnya"
+            ],
+            "Instruksi": [
+                "1.Haluskan ikan. Haluskan bawang putih dan merica bubuk. Campur dengan semua bahan hingga jadi adonan. Tambahkan air jika terlalu padat. Tes rasa.",
+                "2.Bentuk adonan dan bungkus dengan kulit siomai.",
+                "3.Panaskan kukusan, dan kukus siomay kurang lebih 20 menit atau hingga matang"
+            ]
+        },
+        "Harga": [
+            15000,
+            5000,
+            6000,
+            2000,
+            1000,
+            2000,
+            3000,
+            4000
+        ]
+    },
+    {
+        "Nama": "Chiken salad",
+        "Deskripsi": "Salad dengan isi ayam",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "1/2 dada ayam",
+                "1/2 sdt garlic seasalt",
+                "2 sdt olive oil",
+                "1 bonggol lettuce",
+                "1 buah tomah merah",
+                "1 jagung manis rebus",
+                "80 gr youghurt",
+                "2sdm mayonaise rendah lemak",
+                "1 siung bawang putih"
+            ],
+            "Instruksi": [
+                "1.Siapkan bahan, cuci sayuran lalu potong-potong.",
+                "2.Marinasi ayam yg sudah di potong, lalu panggang pada pan anti lengket, jangan terlalu kering ayamnya.Campur bahan Saus aduk rata.",
+                "3.Tata sayuran, beri saus yg sudah di campur rata lalu tata ayam nya. Siap dinikmati"
+            ]
+        },
+        "Harga": [
+            10000,
+            5000,
+            8000,
+            7000,
+            5000,
+            6000,
+            10000,
+            6000,
+            7000
+        ]
+    },
+    {
+        "Nama": "Serabi",
+        "Deskripsi": "serabi dengan santan",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "300 ml santan kelapa",
+                "8 sdm tepung beras",
+                "5 sdm gula pasir",
+                "Sejumput garam",
+                "ragi insstan secukupnya"
+            ],
+            "Instruksi": [
+                "1.Masak santan dengan gula hingga mendidih. Kemudian biarkan santan dingin terlebih dahulu.2.Dalam wadah lain, masukkan tepung beras, garam, ragi dan santan yang telah dingin, campur hingga rata.",
+                "3.Panaskan cetakan dengan api kecil, dapat juga menggunakan wajan gerabah. Ambilah satu sendok sayur dan tuang ke dalam cetakan.",
+                "4.Biarkan serabi hingga muncul rongga-rongga dan serabi benar-benar matang. Angkat dan lakukan pada adonan yang masih tersisa.",
+                "5.Sajikan serabi Jawa dengan parutan kelapa supaya lebih nikmat."
+            ]
+        },
+        "Harga": [
+            3000,
+            2500,
+            4000,
+            1500,
+            2000
+        ]
+    },
+    {
+        "Nama": "Martabak telur",
+        "Deskripsi": "martabak dengan telor",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "10 lembar kulit lumpia",
+                "1 blok tahu putih",
+                "2 butir telur ayam",
+                "2 lembar daun bawang",
+                "1/2 sdt garam",
+                "cabai rawit hijau secukupnya",
+                "2 siung bawang putih dan 10 butir merica"
+            ],
+            "Instruksi": [
+                "1.Haluskan tahu. Potong halus cabai rawit dan daun bawang. Aduk rata, tambahkan garam.",
+                "2.Tumis bawang putih dan merica yang sudah dihaluskan. Masukkan tahu, masak setengah matang. Dinginkan.",
+                "3.Masukkan telur ke campuran tahu. Aduk rata.",
+                "4.Masukkan isian ke kulit lumpia. Lipat jadi segi empat.",
+                "5.Panaskan minyak. Goreng martabak tahu sampai kecokelatan. Angkat dan tiriskan"
+            ]
+        },
+        "Harga": [
+            8000,
+            2000,
+            5000,
+            1000,
+            500,
+            3000,
+            2000
+        ]
+    },
+    {
+        "Nama": "Sayur bayam kecambah",
+        "Deskripsi": "Sayur dengan berbagai kecamabah",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "1/2 ikat bayam",
+                "sejumput kecambah",
+                "bawang merah",
+                "bawang putih",
+                "cabai",
+                "sedikit garam",
+                "1/2 minyak zaitun"
+            ],
+            "Instruksi": [
+                "1.Tumis bawang dan cabai.",
+                "2.Masukkan daun bayam, masak sampai layu.",
+                "3.Tambahkan kecambah. Beri sedikit garam."
+            ]
+        },
+        "Harga": [
+            6000,
+            5000,
+            2000,
+            2000,
+            3000,
+            1500,
+            5000
+        ]
+    },
+    {
+        "Nama": "Roti mangga",
+        "Deskripsi": "roti dengan isi buah",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "1 slice gandum",
+                "mangga",
+                "2 telur",
+                "brokoli"
+            ],
+            "Instruksi": [
+                "1. Orak arik telur bersama brokoli tanpa minyak hingga matang.",
+                "2. Sajikan dengan roti dan irisan mangga."
+            ]
+        },
+        "Harga": [
+            6000,
+            15000,
+            5000,
+            8000
+        ]
+    },
+    {
+        "Nama": "Ayam pedas manis",
+        "Deskripsi": "ayam dengan rasa manis",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "100 gram",
+                "1 siung bawang putih",
+                "daun bawang ambi bagian putihnya",
+                "perasaan lemon",
+                "1 buah tomat potong",
+                "1/2 sdt garam",
+                "1 sdm pasta tomat",
+                "1 sdm kecap manis"
+            ],
+            "Instruksi": [
+                "1.Rendam ayam dengan semua bumbu kecuali tomat selama 10 menit.",
+                "2. Panaskan pan, masukkan rendaman ayam.",
+                "3.Beri sedikit air, masak hingga matang.",
+                "4.Masukkan tomat, masak sebentar."
+            ]
+        },
+        "Harga": [
+            15000,
+            5000,
+            2000,
+            3000,
+            4000,
+            1500,
+            2000,
+            3000
+        ]
+    },
+    {
+        "Nama": "Ramen diet",
+        "Deskripsi": "ramen yang berisi sayur",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                " 3 cm jahe iris kecil2",
+                "6 bawang merah",
+                "4 bawang putih",
+                " cabai",
+                "2-4 sdm kecp asin",
+                "1/2 sdt garam",
+                "1 sdt gula pasir",
+                "1sdt penyedap",
+                "1500 ml air",
+                "2 sdm fiber cream"
+            ],
+            "Instruksi": [
+                "1. Rebus air, masukkan dada ayam dan beri kecap asin.",
+                "2.Cacah bawang merah, bawang putih, dan cabai masukan ke rebusan ayam.",
+                "3. Masukkan jahe, garam, gula pasir, dan penyedap. Masak kurang lebih 20 menit.",
+                "4. Tiriskan potongan ayam. Saring airnya, ambil bawang dan cabai lalu blender.",
+                "5tuang fiber cream"
+            ]
+        },
+        "Harga": [
+            3000,
+            10000,
+            6000,
+            10000,
+            3000,
+            2000,
+            35000,
+            2000,
+            5000
+        ]
+    },
+    {
+        "Nama": "kukusan tempe jagung",
+        "Deskripsi": "tempe dengan campuran jagung",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "200 gran tempe",
+                "100 gram jagung pipil",
+                "1 telur",
+                "bawang daun",
+                "bawang bombay",
+                "merica",
+                "daun kemangi",
+                "garam"
+            ],
+            "Instruksi": [
+                "1. Kukus tempe. Setelah matang, haluskan.",
+                "2. Campur semua bahan, lalu kukus lagi."
+            ]
+        },
+        "Harga": [
+            5000,
+            7000,
+            2000,
+            3000,
+            4000,
+            1500,
+            1000,
+            2500
+        ]
+    },
+    {
+        "Nama": "Sup kacang merah",
+        "Deskripsi": "sup dengan berisi kacang",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "500 gram kacang merah",
+                "1 buah kentang",
+                "1 buah wortel",
+                "2 rolade",
+                "air kaldu",
+                "1 ruas",
+                "1/4 bagian pala",
+                "6 siung bawang putih",
+                "garam dan merica"
+            ],
+            "Instruksi": [
+                "1. Cuci bersih kacang, masukkan ke air kaldu daging.",
+                "2.Masukkan bumbu halus, irisan kentang, dan wortel. Masak hingga kacang empuk."
+            ]
+        },
+        "Harga": [
+            6000,
+            5000,
+            4000,
+            3000,
+            1000,
+            5000,
+            6000,
+            4000,
+            5000
+        ]
+    },
+    {
+        "Nama": "Tortilla gulten free",
+        "Deskripsi": "kebab dengan isi sayur",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "35 gr tepung almond",
+                "35 gr tepung tapioka",
+                "115 gr santan",
+                "1/4 sdt garam",
+                "1/4 sdt parsley kering"
+            ],
+            "Instruksi": [
+                "1. Aduk rata semua bahan, istirahatkan 5-10 menit.",
+                "2. Panaskan teflon antilengket di api kecil cenderung sedang.",
+                "3. Tuang 2 sdm adonan, tunggu bagian bawahnya kecokelatan, balik.",
+                "4.Angkat jika kedua sisi sudah matang.",
+                "5. Dinginkan di cooling rack, tortilla siap diisi dengan ayam, sayuran, atau bahan lain sesuai selera."
+            ]
+        },
+        "Harga": [
+            10000,
+            15000,
+            20000,
+            10000,
+            12000
+        ]
+    },
+    {
+        "Nama": "Bakso sehat",
+        "Deskripsi": "bakso yang berisi daging sapi",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "200-250 gr daging sapi, dibekukan dulu semalaman lalu diiris tipis",
+                " 3 siung bawang putih, cincang kasar",
+                "1 butir telur",
+                "1/2 sdm garam himalaya",
+                " 1/2 sdt lada bubuk"
+            ],
+            "Instruksi": [
+                "1. Blender semua bahan tanpa air.",
+                "2. Setelah diblender, pindahkan ke baskom dan aduk sebentar. Lalu tutup dengan plastik dan diamkan di kulkas selama sejam, agar tekstur baksonya lebih set.",
+                "3. Setelah sejam, keluarkan adonan bakso dari kulkas lalu pulung atau bentuk bulat sesuai selera dengan bantuan sendok.",
+                "4. Masukkan adonan yang sudah dibentuk ke dalam air yang sudah mendidih. Lakukan hingga selesai.",
+                "5. Setelah semua adonan dibentuk, nyalakan api dan rebus hingga mendidih dan semua bol bakso mengapung. Matikan api dan biarkan dingin dan siap digunakan."
+            ]
+        },
+        "Harga": [
+            15000,
+            10000,
+            2000,
+            5000,
+            6000
+        ]
+    },
+    {
+        "Nama": "steak ikan salmon",
+        "Deskripsi": "ikan yang di campur dengan sayur",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "ikan salmon",
+                "minyak kelapa",
+                "lada hitam",
+                "thyme",
+                "bubuk bawang putih",
+                "garam himalaya",
+                "100 gr jamur kancing segar",
+                "200 ml susu UHT plain",
+                "1/2 bawang bombay iris",
+                " 3 siung bawang putih cincang",
+                "1 sdm margarin untuk menumis",
+                "tgyme kering",
+                "parsley kering",
+                "lada garam himaya dan kaldu jamur",
+                "1 sdm tepung maizena larutan dengan air,"
+            ],
+            "Instruksi": [
+                "1. Marinasi ayam dengan semua bumbu marinasi.",
+                "2. Masukkan ayam ke kulkas chiller, diamkan semalaman.",
+                "3. Panggang di teflon dengan 1 sdt minyak kelapa, gunakan api kecil, balik sekali saja setiap sisi agar tidak hancur sampai matang, sisihkan.",
+                "4.Tumis bombay dan bawang putih sampai wangi, masukkan jamur sampai keluar airnya, tambahkan susu UHT, aduk terus sampai mendidih di api kecil.",
+                "5 Masukkan thyme, parsley, lada, garam himalaya, dan kaldu jamur, cek rasa.",
+                "6. Terakhir masukkan maizena, aduk hingga kental, matikan api."
+            ]
+        },
+        "Harga": [
+            25000,
+            10000,
+            5000,
+            1000,
+            6000,
+            3000,
+            7000,
+            5000,
+            3000,
+            4000,
+            7000,
+            2000,
+            3000,
+            5000,
+            20000
+        ]
+    },
+    {
+        "Nama": "Dimsum gulung sawi",
+        "Deskripsi": "dimsum yang dilapasi dengan sawi",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "500 gr paha ayam yang sudah difillet",
+                "100 gr udang",
+                "2 putih telur",
+                "2 siung bawang putih ",
+                "4 sdm saus tiram",
+                "1/2 sdt garam",
+                "1 sdt kecap asin",
+                "1/2 minyak wijen",
+                "1 ujung sendok  lada",
+                "sawi secukupnya"
+            ],
+            "Instruksi": [
+                "1. Haluskan semua bahan kecuali sawi.",
+                "2.Gulung isian dengan sawi yang sudah direbus di air mendidih sebentar"
+            ]
+        },
+        "Harga": [
+            15000,
+            20000,
+            6000,
+            5000,
+            8000,
+            2000,
+            7000,
+            5000,
+            10000,
+            5000
+        ]
+    },
+    {
+        "Nama": "Chiken Maryland",
+        "Deskripsi": "Ayam goreng krispi ",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "300 gram dada ayam fillet",
+                "bubuk bawang putih,cabai bubuk",
+                "Garam,lada",
+                "1 butir telur ayam",
+                "tepung roti",
+                "minyak goreng",
+                "brokoli rebus"
+            ],
+            "Instruksi": [
+                "1.Lebarkan dada ayam fillet, kemudian pukul hingga melebar memakai pemukul daging. Lumuri dengan garam, lada, cabai bubuk, serta bubuk bawang putih sesuai selera. Diamkan setengah jam agar bumbunya menyerap.",
+                "2.Siapkan tepung roti dan telur pada wadah terpisah. Masukkan ayam fillet ke telur, kemudian guling-gulingkan sampai seluruh permukaannya tertutup tepung roti.",
+                "3.Pindahkan ayam ke freezer setidaknya 10-15 menit supaya tepungnya menempel sempurna.",
+                "4.Panaskan minyak, goreng ayam sampai matang serta berwarna golden brown. Tiriskan.",
+                "5.Masak saus bechamel. Tumis bawang bombay menggunakan margarin sampai harum dan layu. Tambahkan tepung serbaguna, aduk rata.",
+                "6.Tuang susu cair. Tambahkan pala bubuk secukupnya, lalu bumbui dengan garam, lada, serta kaldu bubuk.",
+                "7.Masak saus sampai teksturnya mengental. Koreksi rasa.",
+                "8.Susun brokoli dan ayam di piring saji. Sajikan bersama bechamel sauce dan karbohidrat pendamping lainnya agar semakin nikmat. Chicken maryland siap disantap."
+            ]
+        },
+        "Harga": [
+            10000,
+            8000,
+            6000,
+            2000,
+            7000,
+            5000,
+            10000
+        ]
+    },
+    {
+        "Nama": "Pan seared salmon creamy",
+        "Deskripsi": "daging salmon dengan saus bayam creamy",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "200 gram fillet salmon",
+                "1 sendok teh rosemary",
+                "1 sendok teh oregano",
+                "garam lada",
+                "1 ikat bayam",
+                "300 mL susu UHT plain",
+                "1 sendok makan unsalted butter",
+                "1 sendok makan terigu",
+                "Keju cheddar, parut halus",
+                "Garam, lada, kaldu jamur",
+                "Wortel rebus,Brokoli rebus,Potato wedges,Butter rice"
+            ],
+            "Instruksi": [
+                "1.Baluri salmon dengan bahan marinasi, lakukan kurang lebih 30 menit.",
+                "2.Panaskan butter serta minyak goreng, tumis bawang putih sampai harum. Masukkan salmon fillet, masak memakai teknik pan seared sampai matang. Tiriskan.",
+                "3.Masak saus bayam creamy. Rebus daun bayam pada air mendidih cukup 10 detik saja, setelah itu angkat kemudian peras sampai airnya berkurang banyak.",
+                "4.Panaskan butter hingga meleleh, tuang tepung terigu sambil diaduk rata hingga tercampur.",
+                "5.Kecilkan api, tuang susu UHT, masak sampai teksturnya kental kemudian tambahkan keju parut.",
+                "6.Bumbui dengan garam dan lada. Masukkan bayam, masak sebentar sambil diaduk. Matikan api jika sudah tercampur sempurna.",
+                "7.Susun bahan pelengkap dan salmon di piring saji. Tuang saus bayam.",
+                "8.Hidangkan."
+            ]
+        },
+        "Harga": [
+            5000,
+            10000,
+            8000,
+            7000,
+            10000,
+            5000
+        ]
+    },
+    {
+        "Nama": "Tongkol Suwir Pedas",
+        "Deskripsi": "Olahan Tongkol dengan Sambal",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "2 lembar daun jeruk ",
+                "1 buah jeruk nipis",
+                "Garam",
+                "Gula",
+                "Kaldu bubuk",
+                "Minyak goreng",
+                "3 siung bawang putih",
+                "5 buah cabai merah besar",
+                "4 siung bawang merah",
+                "10 buah cabe rawit merah"
+            ],
+            "Instruksi": [
+                "1. Rebus ikan tongkol sampai matang, angkat dan suwir.",
+                "2. Haluskan seluruh bumbu halus dengan blender.",
+                "3.Tumis bumbu halus sampai harum.",
+                "4. Tambahkan daun jeruk, perasan jeruk nipis, air, garam, dan gula.",
+                "5.Masukkan ikan yang telah disuwir, aduk hingga merata.",
+                "6.Diamkan sejenak hingga bumbu terserap sempurna.",
+                "7. Angkat lalu sajikan di piring."
+            ]
+        },
+        "Harga": [
+            "3000",
+            "2000",
+            "2000",
+            "2000",
+            "1000",
+            "23000",
+            "3000",
+            "4000",
+            "3000",
+            "10000"
+        ]
+    },
+    {
+        "Nama": "Capcay Goreng",
+        "Deskripsi": "Olahan sayuran dengan bumbu",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "Kol",
+                "Sawi",
+                "Wortel",
+                "Brokoli",
+                "Bakso",
+                "Pakcoy",
+                "Jamur",
+                "saos",
+                "kecap asin",
+                "saus tiram"
+            ],
+            "Instruksi": [
+                "1. Panaskan wajan kemudian tumis bawang putih dan cabai merah hingga harum.",
+                "2. Tuang telur dan orak arikkan telur.",
+                "3.Kemudian tambahkan buncis dan jamur. Tumis hingga setengah layu",
+                "4.Masukkan sedikit air kemudian diamkan hingga semua bumbu meresap sempurna.",
+                "5.Angkat dan sajikan"
+            ]
+        },
+        "Harga": [
+            "2000",
+            "2000",
+            "2000",
+            "2000",
+            "5000",
+            "3000",
+            "8000",
+            "4000",
+            "4000",
+            "2000"
+        ]
+    },
+    {
+        "Nama": "Gado Gado",
+        "Deskripsi": "Olahan sayuran, tempe dan tahu dengan bumbu kacang",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "mentimun",
+                "kol",
+                "tahu",
+                "tempe",
+                "labu siam",
+                "kacang panjang",
+                "tomat",
+                "kerupuk",
+                "emping",
+                "Buncis",
+                "kentang",
+                "buncis",
+                "taoge",
+                "telur"
+            ],
+            "Instruksi": [
+                "1. Aduk rata tempe dan tahu bersama bumbu perendam. Sisihkan",
+                "2. Panaskan minyak, goreng tahu dan tempe hingga garing dan matang. Angkat dan tiriskan.",
+                "3.Bumbu kacang: Panaskan 3 sdm minyak, tumis bumbu halus dan daun jeruk hingga harum. Masukkan kacang tanah dan Bango Kecap Manis, aduk rata. Tambahkan sisa semua bahan, aduk. Masak hingga matang. Angkat. Biarkan hingga tidak panas",
+                "4.Tata kentang, tahu, tempe, daun selada, ketimun, taoge, dan kol di atas piring saji. Tuang bumbu kacang dan taburi bawang merah goreng. Sajikan dengan pelengkap",
+                "5.Angkat dan sajikan"
+            ]
+        },
+        "Harga": [
+            3000,
+            3000,
+            3000,
+            3000,
+            3000,
+            3000,
+            4000,
+            2000,
+            5000,
+            2000,
+            3000,
+            24000
+        ]
+    },
+    {
+        "Nama": "Martabak",
+        "Deskripsi": "Olahan sayuran dan daging yang dibalut dengan kulit lumpia",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "kulit lumpia",
+                "Bawang Putih",
+                "daging ayam",
+                "bawang putih",
+                "1/4 sendok teh merica bubuk",
+                "telur"
+            ],
+            "Instruksi": [
+                "1. campurkan 5 gram daun bawang, diiris halus 2 butir telur bebek, dikocok lepas 1/2 buah bawang bombay cincang halus 1/2 sendok teh garam 1/4 sendok teh merica bubuk 50 gram bahan tumisan daging.",
+                "2. Tuang telur dan orak arikkan telur.",
+                "3.Kemudian tambahkan buncis dan jamur. Tumis hingga setengah layu",
+                "4.Masukkan sedikit air kemudian diamkan hingga semua bumbu meresap sempurna.",
+                "5.Angkat dan sajikan"
+            ]
+        },
+        "Harga": [
+            "5000",
+            "3000",
+            "15000",
+            "1000",
+            "24000"
+        ]
+    },
+    {
+        "Nama": "Kangkung Balacan",
+        "Deskripsi": "Olahan kangkung dengan bumbu balacan",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "Kangkung",
+                "Tomat",
+                "2 Cabai Merah",
+                "1 sdt terasi",
+                "sedikit garam",
+                "2 siung bawang putih",
+                "gula secukupnya",
+                "2 buah cabai rawit",
+                "minyak goreng"
+            ],
+            "Instruksi": [
+                "1. Rebus kangkung, angkat dan tiriskan. 2. Tumis bumbu yang sudah ditumbuk sampai berbau harum dan matang, masukkan tomat sampai layu.",
+                "3. Hidangkan rebusan kangkung dengan menyiram bumbu di atasnya. Siap sajikan.Tumis hingga setengah layu.",
+                "4.Masukkan sedikit air kemudian diamkan hingga semua bumbu meresap sempurna.",
+                "5.Angkat dan sajikan"
+            ]
+        },
+        "Harga": [
+            "3000",
+            "4000",
+            "3000",
+            "1500",
+            "3000",
+            "3000",
+            "3000",
+            "5000",
+            "20000"
+        ]
+    },
+    {
+        "Nama": "Telur Sambal",
+        "Deskripsi": "Olahan Telur dengan sambal pedas",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "4 buah telur ayam, rebus matang lalu goreng hingga berkulit",
+                "2 siung bawang putih",
+                "8 butir bawang merah",
+                "2 buah cabai merah besar",
+                "10 buah cabai rawit",
+                "1 lembar daun jeruk, buang tulangnya",
+                " 1 buah tomat iris",
+                "1/2 sdt terasi matang",
+                "gula, garam, kaldu bubuk secukupnya"
+            ],
+            "Instruksi": [
+                "1. Tumis bahan sambal bersama terasi dan daun jeruk hingga harum dan matang, beri air secukupnya.",
+                "2. Masukkan telur dan irisan tomat, bumbui dengan gula, garam dan kaldu bubuk, koreksi rasanya, masak hingga kuah asat",
+                "3.Taburi daun bawang, siap disajikan"
+            ]
+        },
+        "Harga": [
+            "24000",
+            "3000",
+            "4000",
+            "3000",
+            "5000",
+            "500",
+            "2000",
+            "1500",
+            "3000",
+            "3000",
+            "2000"
+        ]
+    },
+    {
+        "Nama": "Sup Ayam Kentang",
+        "Deskripsi": "Olahan Ayam dengan Sup Kentang yang fresh",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "200 gram kentang",
+                "2 siung bawang putih",
+                "100 gram wortel",
+                "250 gram daging ayam",
+                "1 tangkai seledri",
+                "1 batang daun bawang"
+            ],
+            "Instruksi": [
+                "1. Tumis Bumbu yang telah di haluskan hingga tercium wangi nya",
+                "2. Tambahkan garam dan merica secukupnya",
+                "3.Tambahkan 1 Liter air",
+                "4. Jika sudah mendidih masukkan ayam dan sayuran",
+                "5. Aduk sampai merata",
+                "6. Tunggu sampai matang",
+                "7. Tiriskan dan ambil kuah secukupnya",
+                "8. Sajikan selagi masih hangat"
+            ]
+        },
+        "Harga": [
+            "10000",
+            "3000",
+            "5000",
+            "25000",
+            "1500",
+            "1500"
+        ]
+    },
+    {
+        "Nama": "Tinutuan",
+        "Deskripsi": "Olahan beras yang menjadi bubur dimasak dengan aneka umbi dan sayur",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "200 gram labu kuning, kukus",
+                "100 gram labu kuning",
+                "100 gram jagung manis",
+                "150 gram beras",
+                "2 liter air",
+                "1 sdm garam",
+                "2 ikat daun kangkung",
+                "2 ikat daun bayam",
+                "3 tangkai daun kemangi",
+                "100 gram ikan cakalang",
+                "3 sdm sambal roa",
+                "3 buah lemon"
+            ],
+            "Instruksi": [
+                "1. Kukus serta haluskan labu kuning.",
+                "2. Potong kotak labu kuning.",
+                "3. rebus jagung manis serta pipilkan 4. siangi.",
+                "2. ikat daun kangkung serta daun bayam.",
+                "5. Ambil daun kemangi dari tangkai nya.",
+                "6. Potong-potong ikan cakalang.",
+                "7. Dalam satu panci besar, rebus beras, air, labu kuning yang sudah dikukus, dan beri garam. Aduk sampai beras setengah matang.",
+                "8. Masukkan jagung, ubi merah, labu kuning. Aduk dan masak sampai matang.",
+                "9.Saat bubur sudah matang, masukkan kangkung, bayam, dan daun kemangi.",
+                "10. Sajikan dengan sambal roa dan suwiran ikan cakalang."
+            ]
+        },
+        "Harga": [
+            "15000",
+            "5000",
+            "12000",
+            "6000",
+            "1500",
+            "3000",
+            "5000",
+            "2000",
+            "20000",
+            "25000",
+            "30000"
+        ]
+    },
+    {
+        "Nama": "Salad Buah Mayonaise",
+        "Deskripsi": "Olahan Salah buah dengan saos mayonaise",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "1 Buah pir",
+                "1 Buah Sunkist",
+                "1 Buah jeruk medan",
+                "0.5 Buah bengkoang",
+                "150 gram Anggur merah",
+                "100 gram Strawberry",
+                "6 sdm Mayonaise",
+                "4 sdm Susu Kental Manis",
+                "Keju parut secukupnya"
+            ],
+            "Instruksi": [
+                "1. Cuci Bersih buah.",
+                "2. Potong buah sesuai selera potongan.",
+                "3. Campurkan semua buah ke dalam satu wadah.",
+                "4. Beri mayonaise buah yang suah di campurkan.",
+                "5. Berikan taburan keju parut dan aduk kembali sampai rata.",
+                "6. Sajikan dengan porsi yang di inginkan."
+            ]
+        },
+        "Harga": [
+            "8000",
+            "7000",
+            "5000",
+            "4000",
+            "20000",
+            "10000",
+            "5000",
+            "5000",
+            "8000"
+        ]
+    },
+    {
+        "Nama": "Pancake Mangga",
+        "Deskripsi": "Buah mangga yang di lapisi dengan kulit pancake",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "125 gr tepung terigu",
+                "1 butir telur ayam",
+                "1/4 sdt garam",
+                "275 ml susu cair",
+                "Buah Mangga",
+                "Whip Cream"
+            ],
+            "Instruksi": [
+                "1. kocok telur ayam terlebih dahulu.",
+                "2. Campurkan tepung terigu, garam dan telur jadi satu.",
+                "3.Tambahkan susu cair secara perlahan sambil diaduk-aduk.",
+                "4. Saring adonan.",
+                "5. Dadar di tempat penggoreng sampai adonan habis.",
+                "6. Isi kulit pancake dengan whipping cream dan mangga, lipat seperti amplop.",
+                "7. Simpan pancake di kulkas. Pancake mangga enak dimakan dalam kondisi dingin."
+            ]
+        },
+        "Harga": [
+            "3000",
+            "2500",
+            "3000",
+            "6000",
+            "7000",
+            "15000"
+        ]
+    },
+    {
+        "Nama": "Taco Ikan",
+        "Deskripsi": "Taco Ikan dengan selada dan kubis herbal",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "Ikan Tuna",
+                "kulit lumpia",
+                "kubis",
+                "selada",
+                "Tarragon",
+                "jeruk nipis",
+                "garam",
+                "\u00bd cangkir krim asam",
+                "1 sdt jintan tanah jalapeno",
+                "2 sdm air jeruk nipis",
+                "Perasan 1 buah jeruk nipis"
+            ],
+            "Instruksi": [
+                "1. Bersihkan Tuna dan Potong sesuai selera.",
+                "2. Campurkan bahan selada dan kubis serta beri garam.",
+                "3. Tunggu 10 menit.",
+                "4. Campurkan bahan untuk krim dan beri bumbu dengan garam.",
+                "5. Goreng Ikan tuna dengan bumbu selada serta sudah di bungkus dengan kulit lumpia.",
+                "6. Setelah itu sajikan di piring."
+            ]
+        },
+        "Harga": [
+            "20000",
+            "3000",
+            "1000",
+            "1000",
+            "5000",
+            "3000",
+            "1000",
+            "5000",
+            "3000",
+            "2000",
+            "5000"
+        ]
+    },
+    {
+        "Nama": "Steak Tempe",
+        "Deskripsi": "Steak versi diet food dengan sayur dan kacang",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "1/2 papan tempe",
+                "2 sdm tepung gluten free",
+                "1/2 sdt lada putih",
+                "garam secukupnya",
+                "minyak kelapa",
+                "air secukupnya"
+            ],
+            "Instruksi": [
+                "1. Kukus tempe sampai matang. Kemudian haluskan.",
+                "2. Campur tempe dengan tepung, lada putih, dan garam.",
+                "3. Bentuk sesuai selera, masak dengan api kecil hingga matang. Angkat dan sisihkan.",
+                "4. Saus: tumis bawang putih sampai harum. Masukkan bawang bombay, aduk sampai layu.",
+                "5. Masukkan semua bahan lain kecuali garam. Masak sampai mendidih.",
+                "6. Matikan api, beri garam lalu aduk rata.",
+                "7. Tuang saus ke steak tempe."
+            ]
+        },
+        "Harga": [
+            "3000",
+            "2000",
+            "500",
+            "500",
+            "5000",
+            "1000"
+        ]
+    },
+    {
+        "Nama": "Sup kacang merah",
+        "Deskripsi": "Sup dengan versi diet serta tambahan kacang merah yang lezat",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "kentang",
+                "2 butir telur",
+                "timun",
+                "tomat",
+                "selada",
+                "wortel",
+                "150 ml air",
+                "2 sdm fiber krim",
+                "1 sdt garam",
+                "1 sdm air lemon"
+            ],
+            "Instruksi": [
+                "1. Didihkan air, masukkan fiber creme lalu aduk rata.",
+                "2. Masukkan larutan maizena, aduk sampai mengental.",
+                "3. Beri himsalt dan air lemon, aduk rata.",
+                "4. Sajikan sayur dan telur dengan saus yang sudah jadi."
+            ]
+        },
+        "Harga": [
+            "3000",
+            "6000",
+            "2000",
+            "1000",
+            "1000",
+            "1000",
+            "1000",
+            "10000",
+            "1000",
+            "4000"
+        ]
+    },
+    {
+        "Nama": "Dimsum gulung sawi",
+        "Deskripsi": "Dimsum dengan versi diet food di bungkus dengan sawi",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "500 gr paha ayam fillet",
+                "100 gr udang",
+                "2 putih telur",
+                "2 siung bawang putih yang sudah dihaluskan",
+                "4 sdm saus tiram non MSG",
+                "1/2 sdt garam",
+                "1 sdt kecap asin organik",
+                "1 ujung sendok lada",
+                "sawi"
+            ],
+            "Instruksi": [
+                "1. Haluskan semua bahan kecuali sawi.",
+                "2. Gulung isian dengan sawi yang sudah direbus di air mendidih sebentar.",
+                "3. Kukus sampai matang.",
+                "4.Sajikan selagi hangat."
+            ]
+        },
+        "Harga": [
+            "15000",
+            "12000",
+            "6000",
+            "2000",
+            "8000",
+            "2000",
+            "4000",
+            "7000",
+            "1000"
+        ]
+    },
+    {
+        "Nama": "Mi Ayam Shirataki",
+        "Deskripsi": "Mi ayam dengan versi diet food",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "50 gr ayam giling",
+                "1 sdm bawang putih halus",
+                "Garam",
+                "Lada",
+                "Kulit ayam",
+                "Lemak ayam",
+                "Mie shirataki sceukupnya",
+                "2 sdt kecap asin",
+                "1 sdm minyak ayam",
+                "1/2 sdt merica bubuk"
+            ],
+            "Instruksi": [
+                "1. Masak semua bahan topping di teflon hingga kering dan keluar minyak nya.",
+                "2. blender hingga halus bahan yang ada di teflon.",
+                "3. Masak minyak ayam kulit dan lemak dimasak tanpa minyak hingga keluar minyaknya.",
+                "3. Rebus mi shirataki.",
+                "4. angkat dan tiriskan.",
+                "5. Beri kecap asin, minyak ayam, dan lada bubuk di mangkuk lalu aduk hingga rata.",
+                "6. Setelah di aduk sampai merata sajikan dengan tambahan topping."
+            ]
+        },
+        "Harga": [
+            "7000",
+            "2000",
+            "1000",
+            "1000",
+            "4000",
+            "6000",
+            "7000",
+            "1000",
+            "4000",
+            "1000"
+        ]
+    },
+    {
+        "Nama": "Green Pasta",
+        "Deskripsi": "Pasta yang cocok untuk yang sedang diet",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "Fettucine secukupnya",
+                "Brokoli",
+                "1 buah tomat kecil",
+                "1/4 paprika hijau",
+                "3 siung bawang putih yang cincang halus",
+                "Lada hitam",
+                "1 sdm minyak wijen",
+                "Garam himalaya",
+                "2 buah telur ayam ambil bagian putih nya saja"
+            ],
+            "Instruksi": [
+                "1. Rebus fettuccine dan brokoli. Jika sudah matang tiriskan. Air bekas rebusan pasta disisakan sedikit.",
+                "2. Panaskan penggorengan, masukkan minyak jagung, tumis bawang putih sebentar saja.",
+                "3. Masukkan tomat hijau dan paprika hijau. Tumis sebentar, masukkan air bekas rebusan pasta sedikit.",
+                "4. Masukkan fettuccine, brokoli, dan telur orak arik.",
+                "5. Tambahkan minyak wijen, garam himalaya, dan lada hitam sesuai selera.",
+                "6. Aduk sebentar kira-kira 3-5 menit",
+                "7. Hidangkan"
+            ]
+        },
+        "Harga": [
+            10000,
+            1000,
+            500,
+            500,
+            2000,
+            1000,
+            5000,
+            5000,
+            6000
+        ]
+    },
+    {
+        "Nama": "Pindang Telur",
+        "Deskripsi": "Telur rebus yang dimasak dengan proses pindang",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "2 butir telur ayam",
+                "2 lembar daun salam",
+                "500 ml air untuk merebus",
+                "Irisan 4 butir bawang merah",
+                "Irisan 3 siung bawang putih",
+                "1 sdm air asam",
+                "1 ruas lengkuas",
+                "1 sdt garam"
+            ],
+            "Instruksi": [
+                "1. Rebus telur dengan air dan semua bumbu dengan api sedang hingga telur matang dan air menyusut",
+                "2. Angkat telur lalu ketuk-ketuk kulit telur hingga retak",
+                "3. Masukkan kembali ke air rebusan lalu masak hingga air menyusut.",
+                "4. Lalu angkat, kupas telur dan hidangkan."
+            ]
+        },
+        "Harga": [
+            6000,
+            500,
+            0,
+            1000,
+            1000,
+            500,
+            500,
+            500
+        ]
+    },
+    {
+        "Nama": "Tumis Tahu Tauge",
+        "Deskripsi": "Tumisan berisi tahu dan tauge rendah kalori",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "5 tahu putih ",
+                "1 genggam tauge",
+                "2 siung bawang putih",
+                "1 sachet saos tiram",
+                "bumbu dapur (gula dan garam)"
+            ],
+            "Instruksi": [
+                "1. Potong tahu putih menjadi kotak dadu sesuai selera.",
+                "2. Cincang bawang putih.",
+                "3. Panaskan wajan dengan menggunakan 1 sendok air lalu masukkan bawang putih yang sudah di cincang.4. Jika sudah wangi masukkan tahu lalu tumis sebentar, lalu masukkan tauge dan aduk sampai tauge lemas.",
+                "5. Masukkan saos tiram dan beri tamabahan bumbu dapur sesuai selera.",
+                "6. Tumis tahu tauge siap dihidangkan."
+            ]
+        },
+        "Harga": [
+            3000,
+            1000,
+            500,
+            2000,
+            500
+        ]
+    },
+    {
+        "Nama": "Mashed Potato",
+        "Deskripsi": "Kentang tumbuk pengganti nasi rendah kalori",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "2 buah kentang",
+                "1 sendok makan mentega",
+                "garam"
+            ],
+            "Instruksi": [
+                "1. Kukus/ rebus kentang sampai menjadi empuk.",
+                "2. Tumbuk halus kentang.",
+                "3. Masukkan 1 sendok makan mentega.",
+                "4. Aduk sampai rata dan tambahkan garam secukupnya atau sesuai selera.",
+                "5. Mashed potato siap dihidangkan."
+            ]
+        },
+        "Harga": [
+            3000,
+            1000,
+            500
+        ]
+    },
+    {
+        "Nama": "Tumis Jamur",
+        "Deskripsi": "Tumisan jamur rendah kalori",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "1 bungkus jamur tiram",
+                "1 siung bawang putih",
+                "garam, gula",
+                "kecap"
+            ],
+            "Instruksi": [
+                "1. Suir jamur tiram sesuai selera.",
+                "2. Iris tipis bawang putih.",
+                "3. Panaskan wajan dengan sedikit minyak.",
+                "4. Masukkan bawang putih lalu tumis sampai harum.",
+                "4. Masukkan jamur lalu tumis sampai jamur terlihat layu.",
+                "5. Masukkan per bumbuan seperti gula dan garam sesuai selera, dan tambahkan kecap sesuai selera.",
+                "6. Aduk sampai rata lalu tambahkan sedikit air.",
+                "7. Aduk sebentar lalu tumis siap dihidangkan."
+            ]
+        },
+        "Harga": [
+            6000,
+            500,
+            500
+        ]
+    },
+    {
+        "Nama": "Pepes Ayam",
+        "Deskripsi": "Olahan ayam rendah kalori",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "1/4 kg dada ayam",
+                "3 siung bawang putih",
+                "4 buah bawah merah",
+                "4 cabai merah",
+                "bumbu dapur; gula dan garam",
+                "daun pisang untuk pembungkus"
+            ],
+            "Instruksi": [
+                "1. Haluskan bawang merah, bawang putih, dan cabai merah.",
+                "2. Potong dadu dada ayam ukuran sedang.",
+                "3. Siapkan mangkok, masukkan ayam dan bumbu yang sudah dihaluskan.",
+                "4. Tambahkan bumbu dapur, 1 sendok teh garam dan setengah sendok teh gula.",
+                "5. Aduk secara merata.",
+                "6. Siapkan daun pisang dan bungkus ayam yang telah dibumbui tadi menggunakan daun pisang.",
+                "7. Lalu, setelah dibungkus dengan rapat, kukus bungkusan tersebut selama 20 menit.",
+                "8. Pepes siap dihidangkan."
+            ]
+        },
+        "Harga": [
+            12000,
+            1000,
+            1000,
+            1000,
+            1000,
+            5000
+        ]
+    },
+    {
+        "Nama": "Shrimp Salad",
+        "Deskripsi": "Olahan sayur dengan udang",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "1/4 kg udang",
+                "kubis",
+                "wortel",
+                "jagung",
+                "selada",
+                "saus wijen instan"
+            ],
+            "Instruksi": [
+                "1. Bersihkan udang dengan membuang bagain kepala, kaki, dan kulit.",
+                "2. Rebus udang dan jagung sampai matang.",
+                "3. Potong potong sayuran sesuai selera (untuk wortel sebaiknya dipotong secara tipis tipis seperti batang korek api yang dibagi menjadi 2).",
+                "4. Cuci semua sayuran yang telah dipotong dan keringkan.",
+                "5. Siapkan mangkok, tata semua sayuran yang telah kering dan jagungnya, tidak lupa udang juga di tata sesuai selera.",
+                "6. Siram dengan 3 sendok saus wijen instan.",
+                "7. Shrimp Salad siap dihidangkan"
+            ]
+        },
+        "Harga": [
+            25000,
+            3000,
+            2000,
+            2000,
+            3000,
+            5000
+        ]
+    },
+    {
+        "Nama": "Mie goreng shirataki",
+        "Deskripsi": "Mie goreng dengan bahan yang lebih sehat dan rendah kalori",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "1 paket mie shirataki",
+                "2 siung bawang putih (cincang halus)",
+                "1 buah wortel (potong tipis)",
+                "1 batang daun bawang (iris tipis)",
+                "100 gram daging ayam (potong dadu kecil)",
+                "1 sachet saus tiram",
+                "1 sendok makan kecap manis",
+                "1 sendok teh kecap asin",
+                "1 sendok teh gula pasir",
+                "1/2 sendok teh merica bubuk"
+            ],
+            "Instruksi": [
+                "1. Rendam mie shirataki dalam air panas selama 2-3 menit untuk menghilangkan bau khasnya.",
+                "2. Kemudian, tiriskan dan sisihkan.",
+                "3. Selanjutnya, panaskan minyak goreng dalam wajan yang sudah dipanaskan.",
+                "4. Tumis bawang putih hingga harum dan agak kecokelatan.",
+                "5. Masukkan potongan daging ayam dan aduk hingga berubah warna menjadi putih.",
+                "6. Tambahkan wortel dan aduk rata.",
+                "7. Masak sebentar hingga wortel sedikit lunak.",
+                "8. Kemudian, masukkan mie shirataki yang sudah direndam dan aduk hingga semua bahan tercampur secara merata.",
+                "9. Setelah itu, tuangkan saus tiram, kecap manis, dan kecap asin ke dalam wajan.",
+                "10. Tambahkan gula pasir dan merica bubuk. Aduk semua bahan secara merata, pastikan mie dan bumbu tercampur dengan baik.",
+                "11. Masak mie goreng shirataki dalam wajan dengan api sedang selama 3-4 menit atau hingga mie matang dan semua bumbu terserap. Jangan lupa untuk terus diaduk agar bumbu terdistribusi dengan baik.",
+                "12. Lalu, tambahkan irisan daun bawang dan aduk sebentar hingga tercampur rata. Angkat mie goreng shirataki dari wajan dan sajikan selagi hangat."
+            ]
+        },
+        "Harga": [
+            15000,
+            500,
+            500,
+            100,
+            5000
+        ]
+    },
+    {
+        "Nama": "Tumis Tauge",
+        "Deskripsi": "Tumisan sayur tauge rendah kalori",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "1 genggam tauge",
+                "2 siung bawang putih",
+                "1 sachet saos tiram",
+                "bumbu dapur garam dan gula"
+            ],
+            "Instruksi": [
+                "1. Panaskan wajan, lalu masukkan bawang putih yang sudah dicincang halus.",
+                "2. Tunguu samapai harum lalu masukkan tauge yang sudah dicuci",
+                "3. Aduk sampai tauge layu.",
+                "4. Llau masukkan garam gula secukupnya atau sesuai selera.",
+                "5. Terakhir masukkan saos tiram dan aduk samai merata.",
+                "6. Tumis Tauge rendah kalori siap dihidangkan"
+            ]
+        },
+        "Harga": [
+            2000,
+            500,
+            2000
+        ]
+    },
+    {
+        "Nama": "Klepon",
+        "Deskripsi": "Jajanan tradisional untuk makanan penutup",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "1/2 kg Tepung ketan",
+                "gula merah",
+                "pewarna makanan warna hijau",
+                "kelapa parut"
+            ],
+            "Instruksi": [
+                "1. Campurkan tepung ketan dengan pewarna makanan hingga terbentuk adonan yang lembut dan tidak lengket.",
+                "2. Setelah itu, bentuk adonan menjadi bola-bola kecil dengan diameter sekitar 2-3 cm.",
+                "3. Selanjutnya, siapkan gula merah yang telah dipotong-potong menjadi bagian kecil. Ambil satu bola adonan ketan, pipihkan dan letakkan sejumput gula merah di tengahnya.",
+                "4. Rapatkan kembali adonan ketan hingga gula merah terbungkus sempurna.",
+                "5.Selanjutnya didihkan air dalam panci dan masukkan bola-bola klepon ke dalam air mendidih. Rebus klepon hingga bola-bola tersebut mengapung di permukaan air, yang menandakan bahwa klepon telah matang.",
+                "6. Angkat klepon dari air mendidih dan tiriskan.",
+                "7. Langkah terakhir, gulingkan klepon yang masih hangat ke dalam kelapa parut yang telah dipersiapkan.",
+                "8. Klepon siap disajikan dan dapat dinikmati dalam keadaan hangat atau dingin."
+            ]
+        },
+        "Harga": [
+            3000,
+            2000,
+            8000,
+            6000
+        ]
+    },
+    {
+        "Nama": "Dadar Gulung",
+        "Deskripsi": "Jajanan tradisional berisi parutan kelapa yang dicampur dengan gula merah",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "tepung terigu",
+                "telur",
+                "gula",
+                "garam",
+                "santan",
+                "air"
+            ],
+            "Instruksi": [
+                " 1.Campurkan tepung terigu, telur, gula, dan garam, lalu aduk rata.",
+                "2.Tambahkan santan sedikit demi sedikit sambil terus diaduk hingga membentuk adonan yang kental.",
+                "3. Selanjutnya, panaskan wajan anti lengket dan oleskan sedikit minyak.",
+                "4. Tuangkan adonan dadar ke dalam wajan dan ratakan dengan spatula. Biarkan dadar matang di satu sisi, kemudian balik dan biarkan matang sempurna.",
+                "5. Setelah dadar matang, pindahkan ke piring dan biarkan sedikit dingin.",
+                "6. Kemudian, beri isian sesuai selera, seperti gula merah parut, keju, atau selai, dan gulung dadar dengan rapi.",
+                "7.  Dadar gulung siap disajikan."
+            ]
+        },
+        "Harga": [
+            4000,
+            3000,
+            500,
+            500
+        ]
+    },
+    {
+        "Nama": "Dessert Box",
+        "Deskripsi": "Makanan penutup yang disajikan dalam satu kotak",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "satu bungkus oreo",
+                "1 bungkus whipcrem siap kocok"
+            ],
+            "Instruksi": [
+                "1. Pisahkan cream dengan biskuit oreo.",
+                "2. Tumbuk kasar biskuit oreo yang telah dipisahkan dari creamnya.",
+                "3. Siapkan wadah untuk menuang whip cream kocok dan krim oreo.",
+                "4. Aduk wip cream dan krim oreo sampai kental dan padat.",
+                "5. Siapkan wadah lalu tata oreo dan krim layer per layer.",
+                "6. Dessert box siap dihidangkan atau masukkan kulkas terlebih dahulu agar lebih nikmat"
+            ]
+        },
+        "Harga": [
+            10000,
+            15000
+        ]
+    },
+    {
+        "Nama": "Bolu Pisang",
+        "Deskripsi": "Makanan penutup dengan bahan dasar pisang",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "2 buah pisang matang, haluskan",
+                "1 butir telur",
+                "100 gram tepung terigu",
+                "50 gram gula pasir",
+                "1 sendok makan margarin, lelehkan",
+                "1/2 sendok teh baking powder",
+                "1/2 sendok teh vanili bubuk",
+                "Secubit garam"
+            ],
+            "Instruksi": [
+                "1. campurkan pisang halus dengan telur dan gula pasir dalam sebuah mangkuk.",
+                "2. Aduk rata hingga gula larut dan bahan tercampur dengan baik.",
+                "3. Selanjutnya, tambahkan tepung terigu, baking powder, minyak sayur, dan garam ke dalam campuran pisang.",
+                "4. Aduk kembali hingga semua bahan tercampur secara merata, tetapi jangan terlalu lama mengaduknya agar adonan tidak terlalu padat.",
+                "5. Selanjutnya, siapkan loyang atau wadah yang bisa digunakan untuk kukusan.",
+                "6. Olesi permukaan loyang dengan sedikit minyak agar bolu tidak lengket.",
+                "7. Tuangkan adonan bolu pisang ke dalam loyang yang telah disiapkan. Pastikan adonan tidak terlalu penuh karena bolu akan mengembang saat dikukus.",
+                "8. Panaskan panci kukusan dengan air di bawahnya. Setelah air mendidih, letakkan loyang yang berisi adonan bolu pisang ke dalam panci kukusan.",
+                "9. Tutup panci dengan rapat dan kukus selama sekitar 30-40 menit atau hingga bolu matang.",
+                "10. Gunakan tusuk gigi untuk memeriksa kekematangan bolu, jika tusuk gigi keluar bersih tanpa adonan yang menempel, maka bolu sudah matang.",
+                "https://youtu.be/yYYDkkD2VMw"
+            ]
+        },
+        "Harga": [
+            5000,
+            3000,
+            2000,
+            500,
+            500,
+            100,
+            100,
+            100,
+            100
+        ]
+    },
+    {
+        "Nama": "Brownies Oreo",
+        "Deskripsi": "Makanan penutup dengan bahan dasar biskuit oreo",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "2 bungkus oreo (1 bungkus isi 14 keping)",
+                "200 ml susu cair coklat",
+                "1 butir telur ayam",
+                "Margarin secukupnya"
+            ],
+            "Instruksi": [
+                "1. Masukkan oreo ke dalam wadah.",
+                "2. Hancurkan oreo sampai halus menggunakan sendok atau ulekan.",
+                "3. Masukkan oreo yang sudah hancur ke dalam blender.",
+                "4. Tambahkan susu cair.",
+                "5. Haluskan campuran oreo dan susu cair sampai halus dengan blender.",
+                "6. Siapkan wadah lain.",
+                "7. Tuang adonan dari blender ke wadah.",
+                "8. Tambahkan telur dan aduk semua bahan sampai rata.",
+                "9. Siapkan loyang. Olesi loyang dengan margarin.",
+                "10. Masukkan adonan brownies oreo ke dalam loyang.",
+                "11. Panaskan kukusan/dandang.",
+                "12. Kukus brownies selama 20 menit. Jangan lupa agar tutup kukusannya dialasi dengan serbet atau kain bersih.",
+                "13. Setelah brownies matang, angkat dan diamkan beberapa saat sampai brownies mulai dingin.",
+                "15. Lalu pindahkan brownies dari loyang ke piring.",
+                "16. https://youtu.be/iUPVRSw89Ek"
+            ]
+        },
+        "Harga": [
+            20000,
+            8000,
+            3000,
+            1000
+        ]
+    },
+    {
+        "Nama": "Sup Sayur",
+        "Deskripsi": "Sup isi aneka sayur ",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "1 buah Wortel",
+                "\u00bc bagian Kol",
+                "\u00bc bagian Bunga kol",
+                "1 batang Daun bawang",
+                "1 batang Seledri",
+                "1 buah Kentang",
+                "2 butir Bawang putih",
+                "2 butir Bawang merah",
+                "1 sdt lada bubuk",
+                "1 sdm Kaldu bubuk",
+                "1 sdm Minyak goreng",
+                "1 bungkus Makaroni",
+                "Garam secukupnya",
+                "Air secukupnya"
+            ],
+            "Instruksi": [
+                "1. Potong wortel, kol, bunga kol, daun bawang, seledri dan kentang.",
+                "2. Haluskan bumbu bawang putih, bawang merah, lada, dan garam.",
+                "3. Tumis bumbu hingga wangi, lalu tambahkan air.",
+                "4. Masukkan sayur-sayuran dan makaroni, tambahkan kaldu bubuk.",
+                "5. Rebus hingga masak, dan siap disajikan"
+            ]
+        },
+        "Harga": [
+            500,
+            500,
+            500,
+            500,
+            1000,
+            250,
+            250,
+            500,
+            500,
+            250,
+            1000,
+            250,
+            0
+        ]
+    },
+    {
+        "Nama": "Onion Rings",
+        "Deskripsi": "Bawang bombay bentuk ring goreng tepung",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "2 buah Bawang Bombay",
+                "20 gram Tepung Bumbu Serbaguna",
+                "20 gram Tepung panir",
+                "Air secukupnya",
+                "Minyak Goreng"
+            ],
+            "Instruksi": [
+                "1. Cuci bawang bombay lalu iris membentuk lingkaran.",
+                "2. Buat adonan basah dengan mencampur air dan tepung bumbu.",
+                "3. Masukkan irisan bawang bombay ke adonan basah lalu lumuri dengan tepung panir.",
+                "4. Goreng hingga kuning kecoklatan, tiriskan, lalu siap disajikan."
+            ]
+        },
+        "Harga": [
+            8000,
+            500,
+            500,
+            0,
+            4500
+        ]
+    },
+    {
+        "Nama": "Udang Alpukat",
+        "Deskripsi": "Udang panggang diatas krim alpukat dan mentimun",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "250 gram Udang",
+                "2 butir Bawang putih",
+                "\u00bd sdt ketumbar",
+                " \u00bd sdt Cabai bubuk",
+                "\u00bd sdt Garam",
+                "2 sdm Minyak zaitun",
+                "1/4 sdt lada hitam",
+                "1 buah Alpukat",
+                "Jeruk nipis secukupnya",
+                "\u00bd buah Mentimun"
+            ],
+            "Instruksi": [
+                "1. Masukkan udang dalam mangkuk, dan tambahkan bawang putih cincang,ketumbar, cabai bubuk, garam, lada, dan minyak zaitun.",
+                "2. Tumis udang hingga matang.",
+                "3. Masukkan alpukat, garam, air jeruk nipis, campur hingga merata.",
+                "4. Potong tipis mentimun.",
+                "5. Tata irisan mentimun, letakkan krim alpukat diatasnya, dan letakkan tumisan udang diatas krim alpukat.",
+                "6. Makanan siap disajikan"
+            ]
+        },
+        "Harga": [
+            30000,
+            250,
+            250,
+            250,
+            250,
+            250,
+            1000,
+            250,
+            5000,
+            500,
+            2000
+        ]
+    },
+    {
+        "Nama": "Soto Lamongan",
+        "Deskripsi": "Soto khas Lamongan dengan kuah kuning dan taburan koya yang gurih",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "100 gram Daging Ayam",
+                "1 siung Serai",
+                "2 lembar Daun Jeruk",
+                "2 lembar Daun Salam",
+                "1 cm Lengkuas",
+                "2 sdt Garam",
+                "1 batang Daun Bawang",
+                "Air secukupnya",
+                "1 butir Bawang merah",
+                "2 butir Bawang putih",
+                "1 butir Kemiri",
+                "2 cm Kunyit",
+                "\u00bd sdt Merica",
+                "Koya",
+                "200 gram Soun",
+                "1 buah Tomat",
+                "2 lembar Kol",
+                "1 butir Telur",
+                "Seledri secukupnya",
+                "Jeruk Nipis secukupnya"
+            ],
+            "Instruksi": [
+                "1. Haluskan bawang merah, bawang putih, kemiri, kunyit, dan merica.",
+                "2. Iris tomat, seledri, kol, dan daun bawang.",
+                "3. Rebus daging ayam hingga matang dan berkaldu.",
+                "4. Tumis bumbu halus hingga wangi lalu tambahkan garam, serai, lengkuas, daun jeruk, daun salam, dan kaldu ayam.",
+                "5. Goreng ayam hingga matang, lalu suwir-suwir ayam.",
+                "6. Tata soun, tomat, kol, telur rebus, dan suwiran ayam dalam mangkuk, lalu tambahkan kuah soto.",
+                "7. Taburkan koya, seledri dan daun bawang sesuai selera"
+            ]
+        },
+        "Harga": [
+            4000,
+            500,
+            250,
+            250,
+            250,
+            250,
+            250,
+            0,
+            250,
+            250,
+            250,
+            250,
+            250,
+            500,
+            750,
+            1000,
+            250,
+            2000,
+            250,
+            250
+        ]
+    },
+    {
+        "Nama": "Steak Ayam",
+        "Deskripsi": "Steak ayam dengan saus pedas manis",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "1 potong Dada ayam",
+                "\u00bd sdt Merica bubuk",
+                "1 butir bawang putih parut",
+                "1 sdt garam",
+                "1 sdm Mentega",
+                "2 sdm Minyak sayur",
+                "1 buah Bawang bombay cincang halus",
+                "3 buah Cabai rawit",
+                "1 sdm Tepung terigu",
+                "250 mL Kaldu ayam",
+                "1 sdm Kecap manis",
+                "1 sdm Saus tiram",
+                "Kentang goreng",
+                "Salad sayur"
+            ],
+            "Instruksi": [
+                "1. Cuci bersih daging dada ayam. Kerat-kerat permukaannya di beberapa tempat.",
+                "2. Lumuri daging ayam dengan bawang putih, merica dan garam hingga rata. Diamkan beberapa saat.",
+                "3. Panaskan mentega dalam wajan hingga leleh. Kecilkan api, masukkan daging dada ayam.",
+                "4. Masak hingga kedua sisinya kering dan matang, angkat dan sisihkan.",
+                "5. Tumis bawang bombay dan bawang putih hingga layu dan harum.",
+                "6. Taburkan tepung terigu lalu aduk hingga tercampur rata.",
+                "7. Tuangi kaldu sambil aduk hingga agak kental.",
+                "8. Tambahkan bahan-bahan lainnya dan masak hingga mendidih.",
+                "9. Masukkan daging dada ayam, masak sebentar hingga mendidih lalu angkat.",
+                "10. Sajikan dengan salad sayur dan kentang goreng."
+            ]
+        },
+        "Harga": [
+            10000,
+            250,
+            250,
+            250,
+            750,
+            500,
+            4000,
+            1000,
+            500,
+            1500,
+            250,
+            750,
+            2000,
+            4000
+        ]
+    },
+    {
+        "Nama": "Bubur Candil",
+        "Deskripsi": "Bubur dengan bulatan kenyal yang legit",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "50 gram Tepung Ketan",
+                "1 sdm Tepung beras",
+                "2 sdm Tepung tapioka",
+                "Air secukupnya",
+                "50 gram Gula merah",
+                "2 lembar Daun pandan",
+                "Garam secukupnya",
+                "75 mL Santan"
+            ],
+            "Instruksi": [
+                "1. Didihkan air, gula merah, garam, dan daun pandan.",
+                "2. Campur tepung ketan, tepung beras, air secukupnya, dan garam, kemudian buat bulatan kecil.",
+                "3. Masukkan bulatan candil kedalam rebusan pada langkah pertama.",
+                "4. Tuang tepung tapioka dan sedikit air.",
+                "5. Didihkan santan dengan daun pandan dan garam.",
+                "6. Sajikan bubur candil dengan siraman santan"
+            ]
+        },
+        "Harga": [
+            1000,
+            1000,
+            1500,
+            0,
+            1000,
+            500,
+            250,
+            2750
+        ]
+    },
+    {
+        "Nama": "Pie Buah",
+        "Deskripsi": "Pie dengan topping buah segar",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "250 gram Tepung Terigu",
+                "1 sdm Gula halus",
+                "170 gram Mentega",
+                "1 butir Kuning telur",
+                "100 mL Susu cair",
+                "1 sdt Gula pasir",
+                "40 gram Tepung Meizena",
+                "\u00bd sdt Vanilla bubuk",
+                "Air 100 mL",
+                "Aneka buah"
+            ],
+            "Instruksi": [
+                "1. Campur beberapa bahan ini sekaligus yakni terigu, gula halus, mentega. Setelah itu aduk menggunakan sendok kayu atau pisau pastry sampai berbulir kemudian tambahkan kuning telur, dan aduk rata.",
+                "2. Bentuk adonan menjadi bulat-bulat, selanjutnya taruh cetakan pie dalam bentuk molding yang sudah dioles butter. Jangan lupa pakai garpu untuk menusuk bagian dasar pie supaya tidak menggelembung.",
+                "3. Sekarang giliran memanggang. Perhatikan suhu 165/170 c api atas bawah dan mulai panggang pie hingga matang. Akan memakan waktu sekitar 25 menit atau sesuaikan oven masing-masing.",
+                "4. Ambil tepung maizena kemudian cairkan dengan susu cair (seperlunya saja), campur 5 butir kuning telur, aduk rata.",
+                "5. Kini rebus susu cair sisa ditambah gula hingga mendidih. Masukkan campuran maizena dan kuning telur, aduk cepat, terus biarkan mendidih sekali lagi. Angkat. dan sisihkan.",
+                "6. Isi pie dengan fla, tambahan hiasan potongan buah, siram 1 sdt agar-agar bening. Dan siap sajikan."
+            ]
+        },
+        "Harga": [
+            5000,
+            250,
+            2000,
+            500,
+            1500,
+            250,
+            500,
+            500,
+            0,
+            6000
+        ]
+    },
+    {
+        "Nama": "Roti Gandum Telur Alpukat",
+        "Deskripsi": "Roti gandum panggang dengan telur dan alpukat",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "2 lembar roti gandum",
+                "1 buah Telur",
+                "1 buah Alpukat",
+                "2 sdm Mentega",
+                "Garam secukupnya"
+            ],
+            "Instruksi": [
+                "1. Panggang roti gandum dengan mentega hingga matang lalu sisihkan.",
+                "2. Panggang telur dengan mentega dan beri sedikit garam hingga matang lalu sisihkan.",
+                "3. Haluskan buah alpukat.",
+                "4. Oleskan alpukat di atas kedua roti.",
+                "5. Letakkan telur disalah satu roti lalu tutup dengan roti satunya"
+            ]
+        },
+        "Harga": [
+            2000,
+            2000,
+            5000,
+            750,
+            250
+        ]
+    },
+    {
+        "Nama": "Smoothie Hijau Buah dan Sayur",
+        "Deskripsi": "Smoothie hijau dengan campuran buah dan sayur untuk pelengkap menu diet",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "1 buah Mentimun",
+                "\u00bd buah Nanas",
+                "1 batang Seledri",
+                "200 mL Air",
+                "60 gram Yogurt"
+            ],
+            "Instruksi": [
+                "1. Potong timun, nanas, dan seledri.",
+                "2. Masukkan bahan ke dalam blender.",
+                "3. Blender hingga halus, kemudian smoothie hijau siap disajikan"
+            ]
+        },
+        "Harga": [
+            2000,
+            4500,
+            500,
+            0,
+            9000
+        ]
+    },
+    {
+        "Nama": "Granola",
+        "Deskripsi": "Campuran gandum utuh, kacang-kacangan dan buah kering yang sehat",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "500 gr Rolled oat",
+                "2 sdm Madu",
+                "1 sdm Minyak zaitun",
+                "100 gr Kacang-kacangan",
+                "50 gr Buah kering (kurma, berries, kismis, dll.)",
+                "Susu atau yogurt secukupnya",
+                "Gula aren"
+            ],
+            "Instruksi": [
+                "1. Sangrai rolled oat dan kacang-kacangan hingga kecoklatan.",
+                "2. Masukkan bahan untuk saus, antara lain minyak zaitun,gula aren, madu, dan buah kering.",
+                "3. Campur dengan rata siap di sajikan dengan susu atau yogurt."
+            ]
+        },
+        "Harga": [
+            12000,
+            1000,
+            500,
+            5000,
+            5000,
+            4500,
+            2000
+        ]
+    },
+    {
+        "Nama": "Zuppa Soup",
+        "Deskripsi": "Sup kental dengan puff pastry diatasnya",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "1 buah puff pastri",
+                "1 butir telur",
+                "1 kotak cream cooking",
+                "1/4 kg ayam cincang",
+                "250 mL susu cair full cream",
+                "1 buah jagung manis pipil",
+                "1/2 kaleng jamur kancing",
+                "1 buah wortel",
+                "2 buah kentang",
+                "150 gr kacang polong",
+                "2 sdm margarin",
+                "1 sdt merica bubuk",
+                "3 siung bawang putih cincang halus",
+                "1 buah bawang bombay cincang halus",
+                "1,5 sdm gandum",
+                "Sejumput oregano",
+                "garam secukupnya",
+                "1 sdm gula",
+                "500 mL air kaldu"
+            ],
+            "Instruksi": [
+                "1. Panaskan margarin, tumis bawang putih cincang, masukkan bawang bombai cincang, tambahkan garam dan gula kemudian tumis hingga harum.",
+                "2. Masukkan ayam, aduk rata, masukkan wortel, kentang dan gandum aduk kembali hingga rata.",
+                "3. Masukkan air kaldu perlahan lahan, masak hingga mendidih.",
+                "4. Masukkan susu cair, kacang polong dan jamur kancing, masak hingga kental.",
+                "5. Masukkan cream cooking, aduk rata sampai semua matang... Lalu matikan api.... Angkat kemudian dinginkan.",
+                "6. Siapkan wadah tahan panas, bisa yg berkuping 2, atau juga bisa wadah aluminium ukuran kecil... Isi sup yg sudah dingin tadi ke dalam wadah tersebut sebanyak 3/4 saja, jangan penuh ya... Karena kalau penuh roti pastrynya nanti tidak akan mengembang.",
+                "7. Tutup wadah dengan pastry... Tekan2 hingga rapat menutupi bagian wadah.",
+                "8. Oles dengan kocokan telur, taburi keju parut diatasnya kemudian panggang dlm oven 180 derajat C hingga roti pastry kecoklatan.",
+                "9. Angkat dan dinginkan."
+            ]
+        },
+        "Harga": [
+            4000,
+            2000,
+            11000,
+            10000,
+            6000,
+            1000,
+            4000,
+            500,
+            1000,
+            2000,
+            500,
+            250,
+            500,
+            4000,
+            500,
+            500,
+            250,
+            250,
+            1000
+        ]
+    },
+    {
+        "Nama": "Yogurt Cheese Cake",
+        "Deskripsi": "Cheese cake dengan tambahan yogurt",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "300 gr biskuit gandum",
+                "170 gr unsalted butter",
+                "250 gr cream cheese",
+                "185 gr yogurt kental",
+                "7 gr gelatin bubuk",
+                "50 mL air",
+                "90 gr gula halus",
+                "100 gr bubuk whipped cream",
+                "200 mL air es"
+            ],
+            "Instruksi": [
+                "1. Siapkan loyang. Alasi bagian bawah loyang dengan margarin lalu kertas roti dan bagian melingkar loyang dengan plastik mika (optional).",
+                "2. Hancurkan biskuit gandum. Campurkan dengan butter yang telah dilelehkan.",
+                "3. Taruh biskuit gandum+margarin ke dalam loyang. Tekan-tekan hingga rata. Masukkan ke freezer.",
+                "4. Campur cream cheese, yogurt, dan gula bubuk dengan mixer. Campur dengan gelatin yang sudah dicairkan dengan air, sisihkan.",
+                "5. Mixer bubuk whipped cream dengan air es.",
+                "6. Campurkan bagian yogurt cheese dengan whipped cream. Aduk menggunakan spatula.",
+                "7. Keluarkan loyang dari freezer. Tuang adonan ke dalam loyang.",
+                "8. Keluarkan cheesecake dari kulkas, lepaskan dari loyang.",
+                "9. Cheese cake siap disajikan."
+            ]
+        },
+        "Harga": [
+            10000,
+            8000,
+            10000,
+            8000,
+            3000,
+            0,
+            2000,
+            9000,
+            0
+        ]
+    },
+    {
+        "Nama": "Black Frozen Yogurt",
+        "Deskripsi": "Yogurt dengan warna hitam arang aktif dan putongan buah",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "750 mL susu full cream",
+                "300 gr yogurt tawar",
+                "5 sdm gula pasir",
+                "3 sdm bubuk agar tawar",
+                "2 sdt arang aktif",
+                "Aneka buah potong kecil"
+            ],
+            "Instruksi": [
+                "1. Masak bubuk agar, gula pasir, dan susu.",
+                "2. Masukkan campuran sebelumnya kedalam blender, tambahkan yogurt, susu, potongan buah dan arang aktif, lalu blender hingga halus.",
+                "3. Masukkan ke dalam freezer selama tiga jam.",
+                "4. Dessert siap disajikan"
+            ]
+        },
+        "Harga": [
+            18000,
+            17500,
+            1000,
+            1000,
+            1500,
+            10000
+        ]
+    },
+    {
+        "Nama": "Lobster Asam Manis",
+        "Deskripsi": "Olahan Lobster dengan saus pedas manis",
+        "Kategori": "main course",
+        "Resep": {
+            "Bahan": [
+                "1 ekor lobster",
+                "Garam secukupnya",
+                "8 buah cabai merah keriting",
+                "1 buah tomat",
+                "4 siung bawang putih cincang",
+                "1/2 buah bawang bombay iris tipis",
+                "3 cm jahe geprek",
+                "4 buah cabai rawit",
+                "3 sdm saus tomat",
+                "1 sdm saus tiram",
+                "1/2 sdt merica",
+                "gula pasir secukupnya",
+                "1 sdm tepung maizena (dilarutkan)"
+            ],
+            "Instruksi": [
+                "1. Cuci bersih lobster, bersihkan dari kotoran.",
+                "2. Cabai merah keriting + 1 buah tomat, direbus dulu kemudian diblender dengan sedikit air, kemudian sisihkan.",
+                "3. Bawang putih, jahe dan bawang bombay ditumis sampai harum. Kemudian masukkan cabai dan tomat yang sudah dihaluskan.",
+                "4. Tambahkan saus tiram, saus pedas, garam, kaldu bubuk, merica, dan gula.",
+                "5. Masak sampai air sedikit menyusut. Kentalkan dengan larutan maizena tadi. Masak sampai mengental koreksi rasa.",
+                "6. Rebus lobster kurang lebih 15 menit, dan tambahkan sedikit garam pada air rebusan.",
+                "7. Kemudian masukkan lobster ke dalam saus asam manis, masak sebentar. Matikan api.",
+                "8. Makanan siap disajikan"
+            ]
+        },
+        "Harga": [
+            27000,
+            250,
+            2000,
+            1000,
+            2000,
+            2000,
+            1000,
+            500,
+            500,
+            500,
+            250,
+            250,
+            250
+        ]
+    },
+    {
+        "Nama": "Salmon Mentai Nasi Merah",
+        "Deskripsi": "Mentai nasi merah dengan daging salmon",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "1 piring nasi merah",
+                "1 sdt gula",
+                "150 gr salmon",
+                "Dashi moto",
+                "4 sdm mayonaise",
+                "2 sdm saus tomat",
+                "1 sdm saus sambal",
+                "Mirin",
+                "Soy sauce",
+                "Minyak wijen",
+                "1 sdt bubuk cabe",
+                "Biji wijen sangrai",
+                "Nori"
+            ],
+            "Instruksi": [
+                "1. Potong salmon dan siapkan bahan marinasi salmon. Marinasi selama 10 menit lalu di goreng di wajan anti lengket 1 menit saja.",
+                "2. Campurkan semua bahan saus mentai.",
+                "3. Siapkan nasi merah, lalu campur semua bahan marinasi nasi juga biji wijen dan nori.",
+                "4. Lalu susun di wadah/alumunium cup, susunannya nasi, saus mentai, salmon, saus kembali, taburi nori juga biji wijen.",
+                "5. Panggang di oven kurang lebih 15 menit saja dengan suhu 150-160\u00b0C api atas. Hidangkan selagi panas."
+            ]
+        },
+        "Harga": [
+            9000,
+            250,
+            30000,
+            500,
+            500,
+            250,
+            250,
+            500,
+            1000,
+            1000,
+            250,
+            500,
+            2000
+        ]
+    },
+    {
+        "Nama": "Sandwich Salmon Asap",
+        "Deskripsi": "Sandwich roti gandum dengan isian utama salmon asap",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "2 lembar roti gandum",
+                "1 pack Salmon asap",
+                "2 lembar selada",
+                "1 buah tomat",
+                "1 buah timun",
+                "2 lembar keju anchor",
+                "Madu"
+            ],
+            "Instruksi": [
+                "1. Siapkan bahan-bahan sandwich. Rendam semua sayuran dgn 1 sdm garam selama 5 menit lalu cuci bersih dgn air mengalir dan bilas dengan air mineral, tiriskan.",
+                "2. Potong2 tomat,timun dan mix selada. Olesi permukaan roti gandum dengan madu.",
+                "3. Susun mix selada, tomat, timun, keju, di atas roti gandum lalu tutup dengan roti gandum. Smoke salmon bisa di taruh langsung dalam sandwich.",
+                "4. Makanan siap dinikmati."
+            ]
+        },
+        "Harga": [
+            2500,
+            35000,
+            1000,
+            500,
+            1000,
+            4000,
+            1000
+        ]
+    },
+    {
+        "Nama": "Bitterballen Kornet Oregano",
+        "Deskripsi": "Bola-bola daging dalam sekali gigit",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "1/4 bawang bombai cincang halus",
+                "1 siung bawang putih halus",
+                "100 gr korney sapi",
+                "3 sdm tepung terigu",
+                "175 mL susu cair full cream",
+                "60 gr makaroni pipa",
+                "1/2 buah wortel",
+                "50 gr keju cheddar",
+                "1 sdt oregano",
+                "Margarin secukupnya",
+                "Garam secukupnya",
+                "Kaldu bubuk",
+                "Merica bubuk",
+                "Pala halus",
+                "Gula secukupnya",
+                "1 putih telur",
+                "Tepung panir secukupnya"
+            ],
+            "Instruksi": [
+                "1. Tumis bawang dengan margarin sampai harum, lalu masukkan wortel, dan kornet. Aduk hingga rata.",
+                "2. Tuangkan campuran terigu, susu secara perlahan sambil diaduk-aduk rata. Masukkan makaroni, keju parut, oregano, dan bumbui sesuai selera. Angkat.",
+                "3. Ambil sedikit adonan dan bentuk menjadi bola-bola.",
+                "4. Gulingkan adonan dalam panir, lalu celupkan ke dalam putih telur, dan gulingkan kembali ke tepung panir. Sisihkan.",
+                "5. Goreng dalam minyak sedang sampai adonan berbentuk coklat keemasan.",
+                "6. Makanan siap disajikan."
+            ]
+        },
+        "Harga": [
+            1000,
+            500,
+            8500,
+            500,
+            6000,
+            1000,
+            500,
+            11500,
+            500,
+            500,
+            250,
+            500,
+            250,
+            750,
+            250,
+            1000,
+            500
+        ]
+    },
+    {
+        "Nama": "Chicken Cheesy",
+        "Deskripsi": "Daging ayam keju dalam lilitan smoked beef",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "250 gr dada ayam fillet",
+                "100 gr keju cheddar",
+                "5 lembar smoked beef",
+                "1 sdt garam",
+                "1 sdt lada hitam",
+                "1 sdt bawang putih bubuk"
+            ],
+            "Instruksi": [
+                "1. Potong ayam menjadi bentuk dadu besar. Belah bagian tengah ayam jangan sampai terputus (buat lubang besar).",
+                "2. Bumbui ayam dengan garam, bawang putih bubuk dan lada hitam.",
+                "3. Masukkan potongan keju ke dalam ayam. Kemudian lilit dengan smoked beef dan rekatkan dengan tusuk gigi atau alat lain agar keju dan smoked beef tidak lepas.",
+                "4. Goreng hingga berubah warna lalu angkat.",
+                "5. Makanan siap disajikan"
+            ]
+        },
+        "Harga": [
+            12500,
+            15000,
+            3500,
+            250,
+            500,
+            250
+        ]
+    },
+    {
+        "Nama": "Mango Cheese Cake",
+        "Deskripsi": "Kue lembut dengan keju dan buah mangga",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "100 gr keju cheddar parut",
+                "2 sdm gula pasir",
+                "1 sdt garam",
+                "2 sdm susu kental manis",
+                "250 mL susu cair",
+                "2 sdm tepung maizena (dilarutkan)",
+                "1 buah mangga potong dadu",
+                "1 bungkus biskuit gandum"
+            ],
+            "Instruksi": [
+                "1. Buat vla dengan mencampur keju, gula pasir, garam,susu kental manis, dan susu cair.",
+                "2. Masak sambil terus diaduk sampai mendidih, lalu tambahkan larutan maizena hingga kental.",
+                "3. Masukkan potongan mangga ke dalam saus vla, aduk rata, dinginkan.",
+                "4. Susun vla dan remahan biskuit selang seling hingga memenuhi gelas saji, simpan dalam kulkas.",
+                "5. Makanan siap dinikmati"
+            ]
+        },
+        "Harga": [
+            15000,
+            250,
+            250,
+            500,
+            6000,
+            500,
+            4500,
+            7000
+        ]
+    },
+    {
+        "Nama": "Banana Milk Crispy",
+        "Deskripsi": "Pisang susu yang krispi",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "2 lembar puff pastry",
+                "2 buah pisang",
+                "50 gr keju",
+                "50 gr meises",
+                "100 mL susu full cream",
+                "1 butir kuning telur",
+                "1/4 sdt banana essence",
+                "1/2 sdm tepung maizena",
+                "30 gr gula halus",
+                "Pewarna kuning"
+            ],
+            "Instruksi": [
+                "1. Dalam wadah, campurkan susu, telur, tepung maizena, gula halus, banana essence dan pewarna, aduk hingga rata, sisihkan.",
+                "2. Siapkan loyang berbentuk pisang, letakkan puff pastry diatasnya lalu potong puff pastry mengikuti bentuk loyang.",
+                "3. Letakkan meises di atas adonan lalu tambahkan pisang yang sudah dipotong kecil-kecil.",
+                "4. Tuang adonan susu hingga menutupi pisang, lalu taburi keju dan meises diatasnya.",
+                "5. Panggang di dalam oven dengan suhu 180 derajat Celcius api atas bawah selama, kurang lebih 30 menit hingga kecoklatan, angkat, lepaskan dari loyang.",
+                "6. Makanan siap disajikan."
+            ]
+        },
+        "Harga": [
+            4000,
+            5000,
+            6000,
+            5000,
+            4000,
+            1000,
+            500,
+            500,
+            1000,
+            500
+        ]
+    },
+    {
+        "Nama": "Cream Soup Oatmeal Jagung",
+        "Deskripsi": "Sup yang creamy dengan isisan oatmeal dan jagung",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "150 gr biji jagung",
+                "120 mL susu full cream low fat",
+                "50 gr oatmeal",
+                "1 batang daun bawang",
+                "1/2 bawang bombay",
+                "100 mL air",
+                "Garam secukupnya",
+                "Lada bubuk secukupnya",
+                "1 sdm minyak zaitun"
+            ],
+            "Instruksi": [
+                "1. Tumis bawang bombay hingga harum, masukan daun bawang hingga lembut.",
+                "2. Tambahkan air dan susu full cream. Tambahkan garam dan lada.",
+                "3. Masukan jagung dan tunggu hingga mendidih.",
+                "4. Tambahkan oatmeal. Tunggu sebentar dan angkat.",
+                "5. Makanan siap disajikan."
+            ]
+        },
+        "Harga": [
+            8000,
+            8000,
+            6000,
+            1000,
+            1000,
+            0,
+            500,
+            500,
+            500
+        ]
+    },
+    {
+        "Nama": "Smoothies Oatmeal Yogurt",
+        "Deskripsi": "Smoothie dengan campuran oatmiel, yogurt dan buah-buahan",
+        "Kategori": "diet food",
+        "Resep": {
+            "Bahan": [
+                "120 mL yogurt",
+                "50 gr oatmeal",
+                "1 buah alpukat",
+                "4 buah anggur",
+                "2 buah strawberry"
+            ],
+            "Instruksi": [
+                "1. Cuci bersih buah, dan potong buah sesuai selera.",
+                "2. Masukkan oatmeal, yogurt, dan buah-buah ke dalam blender, blender hingga halus.",
+                "3. Siap disajikan."
+            ]
+        },
+        "Harga": [
+            9000,
+            6000,
+            7000,
+            2000,
+            2000
+        ]
+    },
+    {
+        "Nama": "Sup Labu",
+        "Deskripsi": "Sup kental dari labu kuning",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "500 gr daging labu kuning",
+                "1 sdm margarin",
+                "1 batang daun bawang",
+                "250 mL susu cair",
+                "1 batang seledri iris halus",
+                "Garam secukupnya"
+            ],
+            "Instruksi": [
+                "1. Kupas labu, potong-potong kasar, kukus hingga matang. Lelehkan margarin, tumis daun bawang sampai harum dan masukkan potongan labu, aduk-aduk, angkat.",
+                "2. Blender tumisan labu hingga halus, lalu masak dengan api kecil.",
+                "3. Tuangkan susu sambil diaduk rata.",
+                "4. Tambahkan garam, setelah mendidih, angkat. Saat penyajian taburi dengan daun seledri. Sajikan selagi hangat."
+            ]
+        },
+        "Harga": [
+            8000,
+            500,
+            500,
+            7000,
+            500,
+            500
+        ]
+    },
+    {
+        "Nama": "Siomay Daging Ayam",
+        "Deskripsi": "Siomay isi daging ayam dan fibercreme",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "50 gr fibercreme",
+                "250 gr dada ayam fillet cincang halus",
+                "1 buah tahu putih",
+                "2 siung bawang putih",
+                "2 batang daun bawang",
+                "1,5 sdm kecap ikan",
+                "3 sdm minyak wijen",
+                "1,5 sdt garam",
+                "3/4 sdt merica bubuk",
+                "2 sdt gula pasir",
+                "150 gr tepung sagu",
+                "50 mL air hangat",
+                "20 lembar kulit siomay"
+            ],
+            "Instruksi": [
+                "1. Campur ayam, tahu, FiberCreme, bawang putih, daun bawang, kecap ikan, minyak wijen, garam, merica, dan gula pasir. Uleni hingga tercampur rata.",
+                "2. Masukkan air. Uleni rata. Tambahkan tepung sagu, aduk rata.",
+                "3. Ambil selembar kulit. Isi dan lipat sisinya.",
+                "4. Letakkan di daun pisang yang dioles tipis minyak, kukus 15 menit di atas api sedang hingga matang.",
+                "5. Sajikan siomay bersama pelengkap."
+            ]
+        },
+        "Harga": [
+            5000,
+            7500,
+            500,
+            250,
+            250,
+            250,
+            250,
+            250,
+            250,
+            250,
+            3500,
+            0,
+            2000
+        ]
+    },
+    {
+        "Nama": "Perkedel Jagung Tuna",
+        "Deskripsi": "Perkedel dengan campuran jagung manis dan tuna",
+        "Kategori": "appetizer",
+        "Resep": {
+            "Bahan": [
+                "100 gr tepung terigu",
+                "1/2 sdt baking powder",
+                "1/4 sdt garam",
+                "1/2 sdt kaldu jamur",
+                "1/4 sdt merica",
+                "1/2 sdt bubuk bawang putih",
+                "1/4 sdt kunyit bubuk",
+                "1/2 sdt ground smoked paprika",
+                "1 butir telur",
+                "60 mL air",
+                "3 buah jagung manis pipil",
+                "1 kaleng tuna",
+                "2 batang daun bawang"
+            ],
+            "Instruksi": [
+                "1. Aduk rata tepung dan semua bahan kering.",
+                "2. Tambahkan telur dan air sedikit demi sedikit. Pastikan adonan tercampur rata.",
+                "3. Panaskan wajan anti lengket, olesi dengan minyak. Api harus kecil saat memasak agar perkedel tidak gosong dan matang merata.",
+                "4. Tuang 1 sendok sayur adonan dan bentuk agak tinggi. Adonan tidak perlu dibolak-balik, setelah matang angkat.",
+                "5. Perkedel siap dinikmati."
+            ]
+        },
+        "Harga": [
+            1500,
+            250,
+            250,
+            250,
+            250,
+            250,
+            250,
+            1000,
+            2000,
+            0,
+            3000,
+            9000,
+            1000
+        ]
+    },
+    {
+        "Nama": "Mochi Coklat Strawberry",
+        "Deskripsi": "Mochi dengan isian strawberry segar dan coklat manis",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "150 gr tepung ketan",
+                "20 gr tepung meizena",
+                "75 gr gula pasir",
+                "210 mL susu cair",
+                "50 gr coklat",
+                "strawberry secukupnya",
+                "100 gr tepung beras",
+                "1 lembar daun pandan"
+            ],
+            "Instruksi": [
+                "1. Campur semua bahan kulit mochi aduk dengan whisk sampai rata, lalu kukus selama 25-30 menit dengan api sedang.",
+                "2. Cairkan coklat lalu masukkan strawberry dan dinginkan agar coklat mengeras.",
+                "3. Sangrai bahan baluran mochi selama 5 menit.",
+                "4. Angkat bahan kulit mochi, alas pakai bahan baluran mochi agar tidak lengket, gilas dan cetak bulat, masukkan isian lalu bentuk bulat.",
+                "5. Masukkan dalam kulkas selama 30 menit.",
+                "6. Mochi siap disajikan."
+            ]
+        },
+        "Harga": [
+            3000,
+            250,
+            1000,
+            6000,
+            2000,
+            4000,
+            1500,
+            250
+        ]
+    },
+    {
+        "Nama": "Strawberry Puff Gallate",
+        "Deskripsi": "Strawberry dalam pastry",
+        "Kategori": "dessert",
+        "Resep": {
+            "Bahan": [
+                "1 lembar kulit puff pastry",
+                "150 gr strawberry",
+                "1 sdm tepung tapioka",
+                "1 sdm gula pasir",
+                "1 sdt air lemon",
+                "1/2 sdt kulit lemon",
+                "50 gr almond slice",
+                "1 butir kuning telur"
+            ],
+            "Instruksi": [
+                "1. Campur strawberry, lemon, gula, tepung tapioka, dan lemon zest ke dalam wadah, lalu aduk hingga rata.",
+                "2. Letakkan kulit puff di atas loyang, masukkan campuran strawberry kemudian lipat pinggiran puff menyerupai lingkaran.",
+                "3. Olesi pinggiran puff dengan kuning telur lalu beri almond slice.",
+                "4. Panggang di oven dengan suhu 180\u00b0c selama 20 menit atau hingga kulit puff kecokelatan.",
+                "5. Angkat dan Strawberry Puff Galette siap disajikan."
+            ]
+        },
+        "Harga": [
+            2500,
+            13000,
+            250,
+            250,
+            250,
+            250,
+            6000,
+            1000
+        ]
+    }
+]
