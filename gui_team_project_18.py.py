@@ -114,7 +114,11 @@ def print_resep(hasil_pencarian):
             
             resep_text.insert(tk.END, bahan_table_data)
             resep_text.insert(tk.END, "\n\nInstruksi:\n")
-            resep_text.insert(tk.END, resep['Instruksi'])
+            
+            instruksi_table = [[langkah] for langkah in resep['Instruksi']]
+            instruksi_table_data = tabulate(instruksi_table)
+            
+            resep_text.insert(tk.END, instruksi_table_data)
             resep_text.config(state='disabled')
         else:
             messagebox.showerror("Error", "Masukkan Angka Yang Sesuai.")
