@@ -49,6 +49,8 @@ def get_masakan_by_harga():
     budget = int(entry_budget.get())
     if budget > 50000:
         messagebox.showinfo("Info", "Batas Budget Adalah 50.000")
+    if budget < 5000:
+        messagebox.showinfo("Info", "Maaf Uang Anda Tidak Cukup")
     kategori = entry_kategori.get().lower()
 
     with open(file, 'r') as file_obj:
@@ -197,7 +199,7 @@ root.withdraw()
 frame_search = ttk.Frame(root)
 frame_search.pack(pady=40)
 
-label_budget = ttk.Label(frame_search, text="Masukkan budget Anda:", style="Custom.TLabel")
+label_budget = ttk.Label(frame_search, text="Masukkan budget Anda: (ex. 15000)", style="Custom.TLabel")
 label_budget.grid(row=0, column=0, sticky=tk.W)
 entry_budget = ttk.Entry(frame_search)
 entry_budget.grid(row=0, column=1)
